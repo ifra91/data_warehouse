@@ -1,0 +1,94 @@
+/*--------------------------------------------------------------------
+DDL SCRIPT : CREATE SILVER TABLE
+
+This script creates silver schema and drops previous data is it exists
+Run this script to redefine the DDL structure of Bronze Layer.
+---------------------------------------------------------------------*/
+USE DatawarehouseNew;
+IF OBJECT_ID('silver.crm_users', 'U') IS NOT NULL
+	DROP TABLE silver.crm_users;
+GO
+
+CREATE TABLE silver.crm_users (
+	user_id NVARCHAR(50),
+	first_name NVARCHAR(50),
+	last_name NVARCHAR(50),
+	age INT,
+	gender NVARCHAR(50),
+	country NVARCHAR(50),
+	subscription NVARCHAR(50),
+	subscription_date DATE,
+	Expense FLOAT,
+	device NVARCHAR(50)
+);
+
+IF OBJECT_ID('silver.crm_movies', 'U') IS NOT NULL
+	DROP TABLE silver.crm_movies;
+GO
+
+CREATE TABLE silver.crm_movies (
+	movie_id NVARCHAR(50),
+	title NVARCHAR(50),
+	genre NVARCHAR(50),
+	country_of_origin NVARCHAR(50),
+	release_year INT,
+	duration INT,
+	language NVARCHAR(50),
+	episodes INT,
+	imdb_rating FLOAT,
+	date_added DATE
+	);
+
+IF OBJECT_ID('silver.erp_recommendation_logs', 'U') IS NOT NULL
+	DROP TABLE silver.erp_recommendation_logs;
+GO
+
+CREATE TABLE silver.erp_recommendation_logs(
+	user_id NVARCHAR(50),
+	movie_id  NVARCHAR(50),
+	recommendation_date DATE,
+	recommendation_type NVARCHAR(50),
+	recommendation NVARCHAR(50),
+	position_in_list INT
+);
+
+IF OBJECT_ID('silver.erp_reviews', 'U') IS NOT NULL
+	DROP TABLE silver.erp_reviews;
+GO
+
+CREATE TABLE silver.erp_reviews (
+	user_id NVARCHAR(50),
+	movie_id NVARCHAR(50),
+	rating FLOAT,
+	review_date DATE,
+	device NVARCHAR(50),
+	verified_watch 	NVARCHAR(50),
+	sentiment NVARCHAR(50)
+);
+
+IF OBJECT_ID('silver.erp_search_logs', 'U') IS NOT NULL
+	DROP TABLE silver.erp_search_logs;
+GO
+
+CREATE TABLE silver.erp_search_logs (
+	user_id NVARCHAR(10),
+	search_query NVARCHAR(50),
+	results_returned INT,
+	used_filters NVARCHAR(50),
+	search_date DATE
+);
+
+IF OBJECT_ID('silver.erp_watch_history','U') IS NOT NULL
+	DROP TABLE silver.erp_watch_history;
+GO
+
+CREATE TABLE silver.erp_watch_history
+(
+	user_id NVARCHAR(10),
+	movie_id NVARCHAR(10),
+	watch_date DATE,
+	watch_hours FLOAT,
+	progress_percent FLOAT,
+	action NVARCHAR(50),
+	quality NVARCHAR(10)
+);
