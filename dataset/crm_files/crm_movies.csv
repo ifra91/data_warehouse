@@ -1,0 +1,1041 @@
+movie_id,title,genre_primary,release_year,duration_minutes,language,country_of_origin,imdb_rating,number_of_episodes,added_to_platform
+movie_0001,Dragon Legend,History,2014,35,French,Japan,,,2023-08-07
+movie_0002,Storm Warrior,Sci-Fi,2017,37,Japanese,USA,3.3,,2022-01-28
+movie_0003,Fire Family,Drama,2003,142,English,USA,8.5,,2021-05-04
+movie_0004,Our Princess,Sci-Fi,2011,131,Japanese,USA,5.3,,2022-11-26
+movie_0005,Warrior Mission,Sport,2015,91,English,USA,3.1,,2023-06-15
+movie_0006,Kingdom Phoenix,Documentary,1997,113,English,USA,8,,2021-01-21
+movie_0007,Battle Story,Sci-Fi,2003,52,English,USA,,158,2021-11-30
+movie_0008,Old House,Horror,1991,109,Spanish,South Korea,7.7,,2020-10-04
+movie_0009,Dragon Empire,Biography,2013,123,Spanish,USA,8.4,,2024-05-09
+movie_0010,Dream War,Thriller,2019,49,Italian,Japan,8.2,32,2021-09-20
+movie_0011,Day Dream,Western,2022,148,English,USA,,,2025-06-02
+movie_0012,Bright War,Crime,1997,95,English,South Korea,9.9,,2025-05-22
+movie_0013,Dream Journey,Romance,2013,138,English,Germany,8.6,,2021-01-20
+movie_0014,Little War,Mystery,1990,117,Korean,Japan,8.4,,2020-10-01
+movie_0015,Hero Empire,Sci-Fi,2012,108,English,UK,,,2022-09-18
+movie_0016,Last Dream,Family,1999,54,Spanish,USA,6,139,2022-01-19
+movie_0017,Kingdom Battle,War,2018,72,Italian,UK,5.9,,2021-10-13
+movie_0018,Princess Phoenix,Adventure,2011,116,English,France,7.6,,2021-04-04
+movie_0019,An Legend,Sci-Fi,2004,48,English,UK,9.3,155,2022-05-12
+movie_0020,An Mystery,Fantasy,2009,41,English,Canada,7.1,168,2022-08-21
+movie_0021,Family Love,Family,2020,52,English,USA,8.5,106,2023-07-25
+movie_0022,First Mystery,Sci-Fi,1998,115,English,South Korea,,,2022-09-12
+movie_0023,Mystery Night,Adventure,2020,60,English,USA,4.8,197,2024-10-18
+movie_0024,Fire Mystery,Biography,1990,114,English,South Korea,4.4,,2023-04-04
+movie_0025,Quest Queen,Family,2013,127,English,UK,9.2,,2024-12-21
+movie_0026,Last Love,Comedy,2000,78,English,India,8.6,121,2025-02-23
+movie_0027,House House,Western,2012,60,English,South Korea,7,,2021-09-19
+movie_0028,Legend Hero,Biography,2003,417,French,USA,,,2024-01-07
+movie_0029,Dark Princess,Horror,1998,117,English,Japan,5.4,,2022-04-16
+movie_0030,Dragon King,Documentary,2017,151,English,India,7.5,,2024-06-10
+movie_0031,Warrior War,Romance,2024,129,English,USA,4.7,,2022-06-10
+movie_0032,House Hero,Crime,2000,31,German,UK,,24,2024-02-13
+movie_0033,Mystery City,Horror,1995,116,Korean,USA,7.3,,2022-06-24
+movie_0034,Mission Kingdom,War,2018,48,English,India,7.7,138,2023-10-22
+movie_0035,Princess Love,Family,1994,38,English,USA,7.4,62,2021-03-01
+movie_0036,House Legend,Adventure,2018,61,Spanish,Germany,6.5,57,2025-04-18
+movie_0037,Empire King,Comedy,2011,51,French,USA,,23,2025-05-02
+movie_0038,A Empire,Action,1993,98,Korean,USA,5.6,,2021-06-29
+movie_0039,Love Queen,Mystery,2019,80,German,USA,7.3,,2022-01-10
+movie_0040,Mystery Quest,War,2005,116,Japanese,UK,6.4,,2023-02-04
+movie_0041,Kingdom War,Biography,2003,83,English,USA,,,2023-03-23
+movie_0042,First Hero,Action,2020,452,Hindi,India,6.7,,2024-06-01
+movie_0043,City Queen,Family,2005,80,Spanish,USA,6.3,,2022-12-12
+movie_0044,Dragon City,War,1998,379,English,USA,5.2,,2023-01-31
+movie_0045,Battle Day,History,2003,92,English,USA,5.4,,2025-02-18
+movie_0046,The Dragon,Family,2002,43,English,USA,6.7,113,2023-08-15
+movie_0047,Day Journey,Thriller,2008,47,English,Japan,5.4,54,2020-12-15
+movie_0048,Secret Legend,Family,1994,102,Hindi,UK,,,2024-08-30
+movie_0049,Kingdom Day,Thriller,2023,111,English,Germany,4.6,,2024-03-03
+movie_0050,Last Quest,Biography,2015,41,French,USA,6.1,116,2023-08-10
+movie_0051,Hero Mystery,Western,1995,52,English,USA,8,178,2023-09-10
+movie_0052,Hero Journey,Sport,2002,104,Italian,USA,4.9,,2022-11-01
+movie_0053,Princess City,History,2018,90,English,Canada,4.7,,2022-02-28
+movie_0054,Phoenix Journey,Romance,2021,35,English,France,8.8,78,2024-11-17
+movie_0055,Queen Quest,Sci-Fi,2002,84,Italian,India,4.7,,2023-11-21
+movie_0056,Big Princess,Adventure,1997,137,English,USA,6.2,,2021-01-18
+movie_0057,Mission Dream,Biography,2017,82,Spanish,USA,5.9,,2021-10-30
+movie_0058,Day Mystery,Drama,2020,57,English,USA,6.6,,2022-10-16
+movie_0059,Night Secret,Romance,1992,580,French,USA,6.3,42,2020-08-24
+movie_0060,Night Warrior,Biography,1993,44,English,USA,4.9,46,2024-08-08
+movie_0061,Journey Night,Drama,2017,100,English,UK,6.9,,2021-11-25
+movie_0062,Phoenix Mission,Action,2012,129,English,USA,4.4,,2022-08-16
+movie_0063,Hero Kingdom,Adventure,1997,165,Hindi,UK,6.9,,2021-04-22
+movie_0064,Last City,Animation,1994,115,Japanese,South Korea,5.8,,2021-07-03
+movie_0065,Day Queen,Sport,1991,109,Italian,USA,,,2024-11-16
+movie_0066,Adventure King,Comedy,2013,104,English,Canada,7.9,,2022-06-24
+movie_0067,Story Mystery,Crime,2005,50,English,USA,6.8,73,2023-05-21
+movie_0068,Secret Night,Horror,1994,46,English,USA,7.5,44,2021-10-22
+movie_0069,An Quest,Documentary,2020,42,Spanish,South Korea,8.1,6,2024-02-13
+movie_0070,Battle City,Biography,2023,81,Hindi,France,6.5,,2022-12-31
+movie_0071,Phoenix Ice,Music,2016,70,English,Canada,6.7,79,2024-06-17
+movie_0072,Storm Warrior,Sci-Fi,2015,73,French,South Korea,,75,2021-06-09
+movie_0073,House Family,Action,2021,42,German,Canada,4.8,121,2023-03-24
+movie_0074,Dark Ice,Comedy,2005,150,English,Canada,,,2021-11-07
+movie_0075,War Hero,Animation,2016,18,English,USA,6.5,177,2023-04-21
+movie_0076,Empire Battle,Family,2023,108,English,USA,6.8,,2023-05-30
+movie_0077,Our Battle,War,2018,26,English,USA,6.4,95,2024-12-03
+movie_0078,Little War,Fantasy,1999,143,Hindi,USA,,,2022-03-30
+movie_0079,Mission Dream,War,2005,414,Hindi,USA,5.9,,2021-02-07
+movie_0080,Day Queen,Documentary,2014,89,English,USA,7.8,,2022-12-26
+movie_0081,Mission Fire,Documentary,2023,119,Italian,Japan,7.8,,2021-06-05
+movie_0082,Bright Phoenix,Western,1995,408,German,South Korea,4.6,,2021-04-14
+movie_0083,Journey Phoenix,Sci-Fi,2024,101,English,USA,7,,2020-08-14
+movie_0084,Night Phoenix,Documentary,1998,114,English,Germany,6.8,,2023-09-08
+movie_0085,Mission Secret,Crime,2009,44,Korean,USA,5.7,,2024-05-03
+movie_0086,Big Adventure,Biography,1998,68,English,UK,0.6,,2024-07-11
+movie_0087,Our Storm,Comedy,2010,38,Italian,USA,6.6,,2021-02-22
+movie_0088,Journey Love,Sport,1990,63,English,Canada,7.2,79,2023-03-02
+movie_0089,Mystery Day,Romance,2014,79,Hindi,Japan,0.9,,2021-06-07
+movie_0090,Ice Kingdom,Animation,2003,107,English,USA,8.7,,2021-12-24
+movie_0091,Dragon Ice,Horror,1993,79,English,Japan,4.7,,2022-11-24
+movie_0092,Story Kingdom,War,1991,35,English,UK,8.8,62,2024-04-23
+movie_0093,City Queen,History,2020,101,English,USA,9.7,,2024-03-31
+movie_0094,Dark City,Western,1993,68,English,USA,5.3,,2021-08-03
+movie_0095,Legend Storm,Fantasy,2003,32,English,USA,3.6,76,2025-05-06
+movie_0096,King Fire,Action,2018,105,English,UK,4.5,,2024-06-22
+movie_0097,Secret War,Fantasy,2001,102,Hindi,Canada,3.1,,2021-05-15
+movie_0098,A War,Adventure,2001,77,English,USA,6.4,,2022-07-27
+movie_0099,Dragon Day,Western,2021,110,English,UK,8.3,,2021-07-06
+movie_0100,Adventure Dream,Fantasy,1996,99,English,Canada,6,,2024-07-30
+movie_0101,King House,Animation,2008,45,English,South Korea,6.9,96,2025-07-19
+movie_0102,Fire War,Comedy,2003,32,Italian,South Korea,5.1,74,2023-08-17
+movie_0103,Family Battle,Sci-Fi,2017,52,Italian,France,8.2,,2024-04-16
+movie_0104,Mystery Mystery,War,2001,107,English,South Korea,,,2024-11-24
+movie_0105,Adventure House,Animation,1992,109,Korean,USA,6.3,,2023-09-28
+movie_0106,Dragon Night,Animation,1991,89,Spanish,South Korea,7.3,,2020-08-25
+movie_0107,Love Kingdom,Biography,2014,87,English,UK,6.1,,2023-03-02
+movie_0108,First Phoenix,Fantasy,2000,128,Italian,USA,7.8,,2021-03-14
+movie_0109,Family Story,War,2023,119,English,USA,6.5,,2022-12-24
+movie_0110,Queen Day,Comedy,1998,122,English,USA,5.5,,2022-06-03
+movie_0111,Kingdom Mission,Sport,1995,106,English,USA,,,2021-03-12
+movie_0112,King Princess,Music,1991,69,English,USA,,103,2022-01-22
+movie_0113,A Quest,History,2022,110,French,Germany,5.9,,2020-12-09
+movie_0114,Journey King,Animation,2008,46,English,India,9.7,48,2022-10-24
+movie_0115,War Dragon,Crime,2021,69,English,USA,6,,2021-04-09
+movie_0116,Secret Story,Biography,1990,134,French,France,4.7,,2024-02-27
+movie_0117,Little Dragon,Family,2013,109,English,USA,5.2,,2022-04-27
+movie_0118,Hero Love,Sport,2014,96,English,USA,,,2021-07-14
+movie_0119,Little Warrior,Action,2019,98,Hindi,South Korea,8.5,,2025-07-26
+movie_0120,Last Mission,Mystery,2022,152,English,USA,5.2,,2024-04-21
+movie_0121,Last Dream,Mystery,2004,113,English,USA,6.1,,2022-09-09
+movie_0122,Little Queen,History,2019,125,English,USA,3.9,,2024-08-01
+movie_0123,Family Fire,Documentary,2008,109,English,USA,4.5,,2023-04-03
+movie_0124,Bright House,Comedy,2003,38,English,USA,6.6,14,2024-01-14
+movie_0125,Our Queen,Western,2010,105,English,Canada,5,,2022-01-10
+movie_0126,Journey Princess,Sci-Fi,2003,125,Spanish,USA,7.4,,2022-12-29
+movie_0127,Dragon Quest,Music,2016,85,English,USA,4.4,,2024-12-22
+movie_0128,A Quest,History,2008,58,English,Canada,4.9,153,2022-03-29
+movie_0129,Mission Fire,Sci-Fi,2000,36,English,USA,,,2023-10-10
+movie_0130,Last House,Action,1990,36,English,Japan,6.4,,2020-11-19
+movie_0131,Story Mystery,Sci-Fi,2024,115,English,USA,6.4,,2025-04-25
+movie_0132,Dragon War,Comedy,2022,95,Spanish,Japan,7.7,,2021-01-12
+movie_0133,Adventure Princess,Family,1993,97,English,USA,7.8,,2021-12-12
+movie_0134,Story Night,Adventure,1999,52,Spanish,France,7.3,,2023-08-24
+movie_0135,Princess House,Western,2016,73,Japanese,USA,5.3,,2023-08-10
+movie_0136,First House,Adventure,2001,404,English,Canada,1,,2023-05-25
+movie_0137,First Mission,History,2023,106,English,USA,7.6,,2020-12-26
+movie_0138,Kingdom Fire,Biography,2024,118,English,Canada,5.6,,2023-05-29
+movie_0139,Last War,Mystery,1993,23,English,USA,4.4,102,2024-05-05
+movie_0140,City Empire,Sport,2023,19,English,France,5.6,,2025-06-20
+movie_0141,War Story,Action,1990,96,Korean,Japan,3.9,,2024-10-30
+movie_0142,Battle Secret,Western,2018,71,English,UK,,169,2021-02-26
+movie_0143,Adventure Fire,Biography,2006,143,German,Germany,5,,2022-12-28
+movie_0144,Our Dream,Comedy,2013,37,Korean,India,9.4,42,2020-12-07
+movie_0145,Fire Empire,Thriller,1990,40,English,UK,8.4,197,2024-03-09
+movie_0146,Bright Love,War,2014,79,English,USA,4.4,,2024-11-22
+movie_0147,Dark Love,Action,1996,34,Japanese,UK,3.9,,2023-02-11
+movie_0148,War Storm,Mystery,1997,66,Spanish,USA,8.9,101,2022-07-29
+movie_0149,The Fire,Action,2000,364,Spanish,USA,3,,2023-09-12
+movie_0150,Story Fire,Adventure,2013,157,English,Japan,8.1,,2022-12-26
+movie_0151,Night Love,Animation,2005,98,English,South Korea,6.2,,2022-12-11
+movie_0152,Fire Quest,Documentary,1991,104,Hindi,USA,3.6,,2020-10-13
+movie_0153,Phoenix Dragon,Animation,2007,148,Spanish,USA,7.8,,2024-01-30
+movie_0154,Bright Phoenix,Sci-Fi,1998,19,Italian,UK,5,187,2024-01-15
+movie_0155,Dream Battle,Romance,2005,140,English,USA,6.5,,2025-07-01
+movie_0156,An Ice,History,2019,111,English,France,6,,2023-07-16
+movie_0157,Last Ice,Sport,2001,77,German,USA,10,,2022-02-15
+movie_0158,Storm Princess,War,2019,110,English,USA,,,2022-02-27
+movie_0159,Battle Family,Drama,2001,121,Korean,India,7.7,,2023-01-23
+movie_0160,Love Journey,Comedy,2016,10,Italian,Canada,6.6,,2023-08-19
+movie_0161,Our King,Western,1993,97,English,Germany,6.5,,2021-02-20
+movie_0162,Day Fire,Animation,2005,40,Spanish,South Korea,5.8,111,2021-08-23
+movie_0163,Bright War,Comedy,2015,85,English,USA,5.7,,2021-01-10
+movie_0164,Quest Ice,Romance,1995,111,English,USA,,,2021-01-13
+movie_0165,Bright Day,Action,2018,91,English,Germany,7.6,,2023-11-21
+movie_0166,Mystery Princess,Western,2012,66,English,USA,3.3,54,2024-02-03
+movie_0167,Battle Night,Adventure,2010,37,Italian,USA,,178,2021-06-26
+movie_0168,Love Love,Crime,1997,103,English,USA,6.9,,2023-02-13
+movie_0169,Storm Day,Western,1998,53,English,Canada,6.9,81,2025-01-20
+movie_0170,Phoenix Love,Horror,1997,537,English,South Korea,6.1,,2024-03-10
+movie_0171,Dream Warrior,Biography,1994,110,English,USA,1.4,,2021-05-21
+movie_0172,My Story,Horror,1993,94,Spanish,USA,10,,2023-09-10
+movie_0173,Little Dragon,Sci-Fi,2002,58,Hindi,Canada,7.2,,2022-02-04
+movie_0174,City Battle,Thriller,2020,50,Spanish,France,,78,2023-11-06
+movie_0175,Fire Day,Fantasy,2002,137,German,USA,8.9,,2023-07-13
+movie_0176,Dream City,Documentary,2008,39,French,USA,4.4,116,2022-09-02
+movie_0177,Fire Princess,Drama,2022,99,Italian,USA,9.1,,2024-09-21
+movie_0178,Our Princess,Animation,2002,55,English,South Korea,5.6,6,2023-11-30
+movie_0179,Battle Empire,Documentary,2014,41,Spanish,UK,0.8,20,2023-03-30
+movie_0180,Story Queen,Action,2010,26,English,USA,6.5,159,2020-11-18
+movie_0181,Phoenix Hero,Crime,2020,43,English,UK,7.4,134,2023-09-22
+movie_0182,Mystery Adventure,Thriller,1990,125,English,USA,5.7,,2024-10-09
+movie_0183,House Phoenix,Music,1999,42,English,USA,,85,2024-05-04
+movie_0184,Legend House,Documentary,2000,84,English,USA,7.3,,2021-06-26
+movie_0185,King Ice,History,2020,83,English,USA,7.4,,2023-04-29
+movie_0186,Old House,Comedy,1999,70,English,USA,,151,2024-03-08
+movie_0187,First Journey,Crime,2012,102,English,South Korea,8.2,,2024-02-07
+movie_0188,Our Hero,Comedy,1998,111,English,USA,9.3,,2022-09-12
+movie_0189,Family Mission,Documentary,1993,85,Japanese,USA,5.8,,2020-10-10
+movie_0190,Princess Night,Fantasy,2010,94,English,USA,6,,2020-11-19
+movie_0191,War Kingdom,Adventure,2006,36,English,USA,5.5,,2022-07-12
+movie_0192,Family Queen,Comedy,2021,127,Korean,Canada,6.1,,2020-09-10
+movie_0193,Love Story,Animation,2002,53,English,India,4.3,,2023-01-24
+movie_0194,The Phoenix,Western,2016,153,German,USA,5.9,,2022-12-03
+movie_0195,New Phoenix,Music,1996,18,Korean,Canada,6.4,151,2022-06-15
+movie_0196,Legend Mission,Mystery,2014,69,Korean,Japan,4.3,,2022-10-21
+movie_0197,Adventure War,History,1998,78,French,South Korea,7.3,,2021-10-04
+movie_0198,Phoenix Family,Sport,2007,48,Hindi,USA,4.9,141,2023-01-02
+movie_0199,A Love,Music,1992,23,English,India,8.3,53,2020-08-30
+movie_0200,Legend Secret,Drama,2002,10,English,USA,4.6,79,2024-10-15
+movie_0201,Secret Battle,Adventure,2012,142,English,USA,5.6,,2022-05-27
+movie_0202,City Empire,Horror,1961,47,Spanish,France,6.1,,2020-11-30
+movie_0203,First Journey,Action,2008,87,English,Canada,,,2023-01-19
+movie_0204,My Quest,Action,1998,100,English,UK,5.3,,2023-04-24
+movie_0205,Adventure Legend,Drama,2021,73,Japanese,USA,6.5,109,2020-11-18
+movie_0206,Big Dragon,Romance,2003,50,English,Canada,6,97,2023-04-13
+movie_0207,Family Ice,Sport,1992,34,English,USA,7.5,15,2020-08-02
+movie_0208,The Story,Thriller,1993,109,Spanish,USA,7.4,,2021-04-28
+movie_0209,King Dragon,History,2023,44,English,USA,6.2,89,2022-06-16
+movie_0210,Princess Kingdom,Sport,2018,83,German,Canada,2.7,,2022-02-15
+movie_0211,Kingdom Princess,Romance,1998,39,Italian,USA,6.1,97,2022-04-12
+movie_0212,Story King,War,2011,33,Hindi,UK,8,,2022-12-08
+movie_0213,Queen House,Fantasy,2015,44,English,Canada,7.9,115,2025-03-15
+movie_0214,Last Dragon,Animation,1966,47,English,USA,4.3,,2024-11-12
+movie_0215,City Warrior,Western,2008,135,English,USA,6.8,,2024-02-24
+movie_0216,Day City,Action,1993,85,Spanish,South Korea,8.5,,2024-03-02
+movie_0217,Quest Secret,Drama,2008,93,English,UK,6.9,,2024-10-25
+movie_0218,Journey Mission,Action,1995,93,English,India,6.2,,2020-12-19
+movie_0219,Bright Adventure,Comedy,2021,102,English,Canada,7.1,,2025-03-09
+movie_0220,An War,Comedy,2009,47,French,Germany,8.1,40,2022-02-21
+movie_0221,Empire Kingdom,Crime,2016,46,English,USA,8.7,,2021-06-25
+movie_0222,Battle Phoenix,Western,1994,329,Japanese,USA,,153,2020-10-30
+movie_0223,Story Phoenix,History,2006,50,Hindi,USA,6.3,156,2020-10-22
+movie_0224,The Princess,Drama,1994,62,German,USA,,43,2021-05-12
+movie_0225,Our Family,Adventure,1994,119,Spanish,India,7.4,,2023-05-16
+movie_0226,A Dream,Western,1998,67,English,USA,5.7,,2022-03-23
+movie_0227,Last Storm,Family,2012,59,English,USA,6.8,,2023-08-14
+movie_0228,City Family,Family,2015,144,Korean,UK,6.4,,2023-06-04
+movie_0229,Last Secret,Drama,2003,115,English,India,6.1,,2024-03-04
+movie_0230,Kingdom King,Biography,2005,491,Spanish,USA,7.2,,2021-06-04
+movie_0231,Storm Quest,Mystery,2020,36,German,South Korea,7.5,88,2025-06-19
+movie_0232,Kingdom War,Sci-Fi,2023,38,English,USA,5.5,42,2023-12-01
+movie_0233,Storm Ice,History,2020,131,English,USA,7.1,,2021-07-31
+movie_0234,An Fire,Horror,1991,58,Japanese,South Korea,8.5,178,2021-01-11
+movie_0235,Empire Story,Crime,2011,45,English,USA,3.7,18,2022-03-06
+movie_0236,Queen Warrior,Action,2006,81,English,Canada,,,2024-08-22
+movie_0237,Legend Warrior,Animation,2002,24,English,Japan,,82,2020-09-30
+movie_0238,Bright Journey,Adventure,2011,46,Korean,USA,8.7,133,2022-02-03
+movie_0239,Kingdom Dream,Sci-Fi,2015,79,Italian,USA,5.7,,2022-10-17
+movie_0240,Last House,Drama,2022,152,French,USA,,,2024-12-02
+movie_0241,Dark Ice,War,2003,13,Japanese,USA,4.9,90,2022-06-22
+movie_0242,Mission Storm,Sci-Fi,2022,56,English,USA,6.9,,2021-06-16
+movie_0243,New Quest,Comedy,1997,147,Italian,USA,6.9,,2022-12-11
+movie_0244,Little City,History,2005,563,English,USA,5,,2020-12-25
+movie_0245,Night King,Mystery,2010,81,German,USA,5.5,,2024-05-28
+movie_0246,Empire Adventure,Documentary,2001,71,English,UK,1.2,,2022-10-12
+movie_0247,Bright Princess,Documentary,2014,84,English,France,6.4,,2022-07-16
+movie_0248,Love Storm,Mystery,2002,17,Spanish,Japan,7,39,2024-02-13
+movie_0249,City Storm,War,2009,67,Hindi,USA,6.5,,2025-07-14
+movie_0250,First Ice,Sci-Fi,2002,21,English,USA,2.6,170,2024-07-24
+movie_0251,Queen Mystery,Comedy,2013,0,English,South Korea,,24,2021-01-16
+movie_0252,My Quest,Romance,1995,140,Spanish,USA,6.2,,2020-10-12
+movie_0253,City Queen,Fantasy,2013,99,Spanish,USA,,,2020-11-04
+movie_0254,Empire Mystery,Drama,2024,38,English,Japan,7.1,84,2021-09-19
+movie_0255,Dark Legend,Animation,2024,127,Hindi,USA,3.4,,2023-02-21
+movie_0256,Kingdom War,Thriller,2007,71,English,USA,,,2025-03-07
+movie_0257,Dragon King,History,2001,109,English,Japan,6.6,,2022-07-25
+movie_0258,Adventure Love,Music,2009,161,English,USA,8.8,,2021-10-29
+movie_0259,Princess Warrior,Crime,2004,114,English,Canada,6.9,,2022-02-03
+movie_0260,Love Love,Action,2018,55,French,USA,4.7,,2023-04-29
+movie_0261,Hero Dream,Biography,2013,88,Italian,USA,9.1,,2025-04-11
+movie_0262,House Secret,Sport,2020,127,English,USA,4.8,,2023-02-02
+movie_0263,Big Ice,Music,1994,93,Hindi,South Korea,,,2023-06-25
+movie_0264,Our Queen,Biography,2013,121,English,South Korea,8.4,,2022-09-26
+movie_0265,Warrior Fire,Western,1994,98,English,USA,4.5,,2020-10-07
+movie_0266,Ice Fire,Romance,2005,59,English,Germany,4.1,136,2025-05-31
+movie_0267,Our War,Animation,2024,51,Japanese,South Korea,8.3,,2021-03-22
+movie_0268,Quest Empire,Comedy,2022,120,English,Japan,6.7,,2025-01-20
+movie_0269,Secret Mystery,Drama,2012,74,Italian,UK,9.8,,2024-10-25
+movie_0270,Secret Ice,Romance,2020,152,English,UK,0.9,,2022-11-01
+movie_0271,Our Mission,Music,2013,66,French,Japan,7.3,78,2020-12-04
+movie_0272,Day Fire,Family,2024,127,English,South Korea,6.9,,2021-12-20
+movie_0273,New Adventure,Adventure,2003,54,Italian,UK,6.1,,2024-09-09
+movie_0274,Story Phoenix,Horror,1996,51,Korean,USA,6.8,,2024-11-11
+movie_0275,Night City,Drama,2007,67,English,USA,6.6,,2025-05-09
+movie_0276,Dark Storm,Family,1991,24,English,India,1.7,106,2022-02-23
+movie_0277,An Empire,Adventure,1991,25,English,USA,4.9,183,2025-04-04
+movie_0278,Dragon Storm,Documentary,2023,63,Hindi,USA,6.6,50,2024-06-09
+movie_0279,My Adventure,War,2011,53,English,USA,6.6,77,2022-06-21
+movie_0280,Legend Story,Mystery,1995,100,Italian,USA,6.7,,2020-09-23
+movie_0281,House Phoenix,Crime,2017,115,English,USA,6.5,,2022-07-21
+movie_0282,Secret Ice,Comedy,1997,90,English,USA,4.2,,2024-03-05
+movie_0283,Big Mission,History,2009,118,Spanish,UK,6.1,,2024-04-22
+movie_0284,King Dragon,Romance,1990,112,English,USA,6.8,,2021-05-15
+movie_0285,Dragon Dragon,Horror,2024,85,English,South Korea,,,2023-10-13
+movie_0286,First Queen,Thriller,1995,63,Spanish,Germany,7.3,,2022-10-03
+movie_0287,The Adventure,Animation,1995,76,Japanese,USA,2.7,199,2021-12-24
+movie_0288,Mystery Adventure,Music,2005,66,German,USA,5.8,,2021-02-24
+movie_0289,Love City,Action,2007,57,English,Canada,8.2,75,2021-05-14
+movie_0290,Dark City,Animation,1992,84,English,Germany,5.9,,2023-03-16
+movie_0291,Princess War,Romance,2002,58,English,USA,7.6,,2024-11-06
+movie_0292,Family Princess,Adventure,2000,67,English,France,8.4,,2023-05-17
+movie_0293,Quest Adventure,Adventure,2009,85,English,Canada,7,,2025-01-30
+movie_0294,King Kingdom,Horror,1999,118,English,Canada,8.5,,2025-05-01
+movie_0295,Little Dragon,Fantasy,2011,50,English,USA,5.2,27,2020-11-06
+movie_0296,Ice Mystery,Documentary,2011,102,French,USA,7.5,,2024-11-01
+movie_0297,Secret Mission,Thriller,1995,99,English,USA,4.8,,2022-11-02
+movie_0298,City Dream,Adventure,2014,121,Korean,USA,6.9,,2021-02-08
+movie_0299,Quest Mystery,Biography,1986,36,French,Japan,7.4,54,2022-12-15
+movie_0300,House War,Sci-Fi,2024,155,English,USA,6.9,,2021-02-25
+movie_0301,Fire Battle,Horror,1991,108,Japanese,USA,5.6,,2024-11-20
+movie_0302,Bright Battle,Drama,1997,105,English,USA,,,2021-09-06
+movie_0303,Quest Princess,History,1990,132,Japanese,USA,6.3,,2022-04-28
+movie_0304,Dragon Warrior,History,2011,122,Hindi,USA,6.3,,2023-06-05
+movie_0305,Legend House,Adventure,1984,113,English,Japan,,,2021-06-14
+movie_0306,Warrior House,Comedy,2009,45,English,UK,,83,2021-10-02
+movie_0307,Dark Ice,Crime,2023,48,Italian,India,10,,2024-03-02
+movie_0308,Old Dragon,Western,2010,86,Korean,Canada,3.2,,2023-10-30
+movie_0309,War Legend,Sci-Fi,2006,151,English,USA,7.3,,2023-11-03
+movie_0310,Legend Ice,Family,2003,32,English,USA,6.3,86,2021-01-24
+movie_0311,War Empire,Adventure,1993,72,English,USA,3.9,,2023-01-16
+movie_0312,King Legend,Romance,2019,64,English,UK,7.4,192,2022-11-24
+movie_0313,Quest Love,Adventure,2004,9,English,Canada,0.5,124,2023-10-24
+movie_0314,Adventure Princess,Sci-Fi,2023,113,English,India,,,2024-11-01
+movie_0315,Big Hero,Mystery,1997,51,English,Canada,7.9,,2021-02-05
+movie_0316,Mystery Kingdom,History,2018,119,Hindi,USA,6.8,,2024-03-25
+movie_0317,Mystery Love,Drama,1996,87,French,South Korea,8.6,,2025-03-25
+movie_0318,Mission Day,Crime,1994,117,English,USA,5.5,,2021-05-12
+movie_0319,My Journey,Crime,1990,121,Japanese,South Korea,5.3,,2021-04-06
+movie_0320,Fire Queen,Documentary,1991,101,English,USA,5.3,,2021-08-02
+movie_0321,First Family,Comedy,2014,534,English,Germany,,,2024-03-24
+movie_0322,Day Night,Western,2015,109,Spanish,USA,6.2,,2022-07-30
+movie_0323,Little City,Adventure,2011,145,English,Canada,4.4,,2022-11-09
+movie_0324,Phoenix Dragon,Fantasy,1994,66,English,Canada,6.9,,2021-01-02
+movie_0325,Dream Family,Sport,2011,64,Hindi,Canada,4.8,,2025-07-31
+movie_0326,Our Queen,Family,2018,98,English,South Korea,4.8,,2023-02-12
+movie_0327,The Storm,History,2005,48,English,USA,7.4,164,2021-10-05
+movie_0328,Mystery Day,Horror,2024,46,Italian,USA,9.3,,2021-04-15
+movie_0329,Battle Phoenix,Documentary,2021,49,English,USA,6.6,,2025-07-25
+movie_0330,Legend King,Biography,2010,71,English,UK,9.5,,2023-12-06
+movie_0331,A Quest,Family,2018,36,Italian,UK,,138,2020-12-01
+movie_0332,Queen Dream,Fantasy,1997,75,Spanish,USA,6.5,,2023-07-11
+movie_0333,The Dream,Action,2019,72,Korean,USA,8,,2020-11-09
+movie_0334,Story Warrior,Comedy,1998,39,Hindi,India,6.2,31,2022-10-31
+movie_0335,Quest Mission,Crime,2016,27,Japanese,South Korea,,149,2022-12-28
+movie_0336,Queen Warrior,Comedy,2006,183,English,UK,7.8,,2021-02-09
+movie_0337,Storm Dream,Documentary,2014,31,French,USA,5.9,199,2024-08-12
+movie_0338,Old Mission,Romance,2004,106,English,Canada,4.7,,2022-01-24
+movie_0339,Big Empire,Fantasy,1961,106,Spanish,Japan,7.5,,2024-10-19
+movie_0340,Mission Quest,Documentary,2010,124,English,USA,6.3,,2020-12-14
+movie_0341,Battle Ice,Western,2005,64,English,USA,6.3,8,2024-02-18
+movie_0342,Adventure Story,Biography,2001,103,English,USA,7.4,,2023-07-03
+movie_0343,Legend Mission,Animation,2022,119,English,USA,,,2023-01-19
+movie_0344,Mystery Fire,Thriller,2017,110,English,South Korea,5.1,,2022-09-26
+movie_0345,Dark Secret,Fantasy,2001,64,English,USA,7.5,146,2023-02-19
+movie_0346,House City,Animation,2008,30,English,South Korea,6.6,50,2023-01-02
+movie_0347,Story Warrior,Comedy,1996,51,French,USA,4.9,168,2021-05-23
+movie_0348,Quest Adventure,Sport,2024,43,Spanish,USA,6.4,123,2025-01-10
+movie_0349,Fire King,Romance,2018,101,English,USA,7.3,,2023-03-27
+movie_0350,Dragon Hero,History,2020,91,English,South Korea,8,,2021-08-19
+movie_0351,Family Story,Family,2018,28,English,USA,,191,2020-09-11
+movie_0352,New Kingdom,Thriller,2022,54,Japanese,USA,6.1,,2024-03-23
+movie_0353,Quest Hero,Action,2009,437,Italian,USA,5.5,19,2020-08-21
+movie_0354,New Adventure,Adventure,2010,85,Spanish,USA,7,,2021-01-20
+movie_0355,Dream Dream,Family,2019,65,English,USA,5.9,177,2024-07-24
+movie_0356,Love Empire,Music,1999,43,Korean,USA,7.9,67,2023-07-28
+movie_0357,Our Queen,Crime,2006,115,English,USA,6.6,,2025-06-22
+movie_0358,Legend Secret,Drama,1992,37,English,Japan,9,148,2025-04-21
+movie_0359,Quest Hero,Biography,1973,103,Korean,USA,,,2025-06-13
+movie_0360,Fire Night,Comedy,1953,52,English,USA,4,116,2022-12-14
+movie_0361,War Adventure,Drama,2022,22,English,USA,6.8,,2022-06-04
+movie_0362,Bright Phoenix,Drama,2021,84,English,UK,7.9,,2023-05-09
+movie_0363,Night Secret,Animation,1990,150,German,USA,,,2022-02-11
+movie_0364,Princess House,Thriller,2009,95,English,USA,7.9,,2020-11-02
+movie_0365,First Quest,Action,2011,70,English,USA,7.3,170,2025-06-30
+movie_0366,War Dragon,Crime,2001,24,English,Canada,8.2,185,2024-07-19
+movie_0367,Storm Secret,Drama,1991,92,English,USA,4.7,,2022-11-29
+movie_0368,The Empire,Western,2018,95,French,Canada,6.1,,2021-05-17
+movie_0369,Big Ice,Family,2008,58,Hindi,Japan,5.9,,2023-05-08
+movie_0370,Princess Quest,Music,2015,87,Spanish,USA,,,2021-09-16
+movie_0371,King Love,Biography,2017,46,Hindi,South Korea,6.3,168,2025-07-23
+movie_0372,Love Fire,Documentary,2022,93,English,South Korea,9.5,,2023-02-04
+movie_0373,Queen Journey,War,2001,51,Spanish,South Korea,5.5,147,2021-06-17
+movie_0374,The Story,Adventure,2023,104,English,USA,7.5,,2024-03-05
+movie_0375,Last Kingdom,Fantasy,2019,129,Japanese,Canada,7.3,,2021-03-15
+movie_0376,City Legend,Family,2021,106,English,USA,7.6,,2023-06-21
+movie_0377,Ice Journey,Animation,2016,105,Japanese,USA,5.6,,2024-10-10
+movie_0378,Quest Family,Sport,2005,42,English,USA,,,2025-02-28
+movie_0379,Our Battle,Horror,2007,41,Japanese,South Korea,,164,2021-03-23
+movie_0380,House Dragon,Animation,2015,66,Hindi,USA,8.2,,2023-06-17
+movie_0381,Dragon Princess,Biography,2023,116,English,Germany,6.2,,2021-11-26
+movie_0382,Love Empire,War,2012,66,English,Canada,5.5,,2021-10-10
+movie_0383,Day City,Crime,2022,42,English,USA,5.7,89,2023-09-28
+movie_0384,Night Adventure,Music,2013,42,English,USA,8.8,,2022-02-27
+movie_0385,Little Journey,Family,2020,72,English,USA,7.1,,2025-02-27
+movie_0386,Hero Hero,War,2015,42,English,USA,8.6,,2020-10-11
+movie_0387,Night King,Animation,2024,90,English,India,,,2025-06-09
+movie_0388,An Mission,Animation,1994,35,Spanish,USA,2,,2024-07-29
+movie_0389,Last Mission,History,2023,122,German,Canada,8.7,,2023-03-20
+movie_0390,Old Night,Fantasy,2004,94,Spanish,USA,2.7,,2024-07-05
+movie_0391,Night Night,Crime,2006,87,French,USA,1.2,,2021-04-22
+movie_0392,Hero City,Adventure,2010,49,French,USA,8.9,101,2024-09-26
+movie_0393,A Storm,Sci-Fi,1999,57,English,South Korea,7.7,,2020-12-07
+movie_0394,Dark Kingdom,Adventure,2014,26,Spanish,South Korea,6.1,97,2023-12-17
+movie_0395,Princess Queen,Family,2022,36,English,USA,,,2024-04-04
+movie_0396,Storm Night,War,2003,120,English,USA,7.2,,2023-08-15
+movie_0397,Legend Adventure,Sci-Fi,2016,72,Spanish,USA,6,,2022-01-18
+movie_0398,Hero Story,Animation,1997,101,English,South Korea,5.5,,2023-09-28
+movie_0399,Our Ice,Horror,1996,87,French,USA,6.8,,2021-12-16
+movie_0400,Night Queen,Action,2002,73,Korean,UK,,,2024-05-29
+movie_0401,Queen War,Family,2022,159,English,USA,5.5,,2022-06-29
+movie_0402,Fire Dream,Romance,2005,41,German,Canada,7.1,,2023-04-05
+movie_0403,Legend Legend,History,1992,106,Japanese,USA,2,,2022-01-07
+movie_0404,Family Story,War,1990,53,Korean,India,7.2,53,2020-09-21
+movie_0405,Old Ice,Biography,2006,44,English,South Korea,6.9,,2021-08-27
+movie_0406,Mystery Empire,Adventure,2015,95,English,UK,7.2,,2023-07-14
+movie_0407,Phoenix Adventure,Action,1954,48,English,USA,6.4,,2021-09-14
+movie_0408,Adventure Love,Music,2008,43,English,Canada,7.8,,2023-10-20
+movie_0409,Mystery Storm,Fantasy,2020,99,English,USA,7.8,,2023-04-18
+movie_0410,Last Battle,Drama,2022,586,English,USA,5.4,,2024-04-24
+movie_0411,Dream Dream,Music,2013,126,Japanese,USA,,,2025-03-15
+movie_0412,Princess Adventure,Comedy,1996,68,Spanish,USA,3.8,132,2025-01-13
+movie_0413,Legend Day,Family,2006,80,Hindi,UK,3.5,,2022-10-29
+movie_0414,Adventure Queen,Documentary,1999,42,English,Germany,7.4,141,2025-07-19
+movie_0415,Last Quest,Horror,1993,71,English,UK,5,,2025-03-24
+movie_0416,A Mystery,Mystery,1992,45,Spanish,USA,9.1,,2021-06-11
+movie_0417,Dragon Day,Western,2011,91,English,USA,5.4,,2023-06-07
+movie_0418,Big Story,Western,2020,146,English,UK,5.8,,2020-10-15
+movie_0419,New Fire,Fantasy,1993,65,Spanish,India,5.2,98,2025-01-03
+movie_0420,War Hero,Western,1990,53,Spanish,South Korea,6.8,,2023-09-04
+movie_0421,Legend Love,War,1997,66,English,USA,5.2,,2025-05-30
+movie_0422,City Night,Family,2021,46,Hindi,Germany,5.8,129,2022-12-20
+movie_0423,Our Night,Biography,2005,143,English,USA,3.4,,2022-11-05
+movie_0424,Battle Secret,Mystery,2004,56,English,USA,0.9,,2021-04-06
+movie_0425,Storm Kingdom,Adventure,1994,53,English,USA,,134,2023-01-09
+movie_0426,Warrior King,Action,2004,131,French,USA,5.2,,2024-03-17
+movie_0427,A King,Western,2023,59,English,South Korea,7.2,,2024-02-15
+movie_0428,Empire King,Thriller,2020,105,English,Japan,6.9,,2022-12-25
+movie_0429,Kingdom City,History,1994,53,English,USA,5.7,99,2020-10-22
+movie_0430,Dragon Princess,Sci-Fi,1990,126,English,USA,5.2,,2021-03-02
+movie_0431,A Adventure,History,2003,97,English,USA,6.9,,2021-05-30
+movie_0432,Love Journey,Animation,2019,60,French,USA,6.7,29,2021-04-26
+movie_0433,Our City,Crime,1999,113,English,France,6.5,,2024-07-19
+movie_0434,Princess Battle,Fantasy,2011,90,English,France,6.5,,2024-10-25
+movie_0435,Mission Phoenix,Family,2009,101,English,Canada,6.2,,2023-11-25
+movie_0436,Story City,History,2012,98,English,Germany,6.4,,2025-01-29
+movie_0437,Ice Secret,Animation,2016,93,English,USA,8,,2023-02-19
+movie_0438,Mission Fire,Mystery,2007,40,Korean,USA,0.7,138,2025-01-16
+movie_0439,Little Kingdom,Documentary,2023,99,English,USA,1.4,,2023-08-08
+movie_0440,Love War,Biography,2023,132,Hindi,USA,7.4,,2021-08-30
+movie_0441,Day Legend,Comedy,1993,56,Hindi,USA,4,199,2021-07-14
+movie_0442,Dragon Storm,War,1990,59,English,USA,6.6,,2022-08-05
+movie_0443,Battle Legend,Documentary,2011,88,English,South Korea,6.5,,2020-09-10
+movie_0444,Dragon Mystery,Romance,2010,58,English,USA,7.8,129,2023-03-23
+movie_0445,Secret Family,Thriller,1999,76,English,UK,4.6,,2022-08-05
+movie_0446,Queen Mission,Adventure,1994,50,English,Canada,8.5,123,2024-09-21
+movie_0447,House Night,History,2005,31,Italian,Germany,4.7,,2023-04-30
+movie_0448,Story Hero,Comedy,1993,101,English,USA,,,2020-12-15
+movie_0449,Night House,Horror,2003,16,English,France,7.5,126,2024-12-04
+movie_0450,A Quest,Action,2005,57,English,USA,10,,2025-05-13
+movie_0451,Family Legend,Family,2005,109,Japanese,Japan,6.8,,2024-11-16
+movie_0452,Family Secret,Romance,2024,56,French,USA,,58,2023-12-23
+movie_0453,Princess Dream,Adventure,2007,92,English,Germany,9.2,,2021-03-16
+movie_0454,Princess Queen,Mystery,1998,113,Hindi,UK,6.6,,2022-07-31
+movie_0455,Journey Quest,Fantasy,2008,117,English,France,,,2025-02-22
+movie_0456,Ice Legend,War,1979,104,Hindi,USA,,,2025-07-18
+movie_0457,The Day,Drama,1995,45,Hindi,USA,1.7,97,2023-03-02
+movie_0458,Secret Hero,Action,2018,57,English,USA,,173,2023-03-08
+movie_0459,Ice Phoenix,War,1997,98,English,USA,8.1,,2024-08-04
+movie_0460,Family Journey,Documentary,2013,24,Italian,Japan,,66,2022-02-23
+movie_0461,King Queen,Fantasy,2003,61,Spanish,Canada,5.6,,2024-05-07
+movie_0462,Last Kingdom,Drama,2007,53,Spanish,USA,9,17,2023-05-23
+movie_0463,Phoenix Day,Comedy,2007,28,English,USA,8.3,166,2022-11-14
+movie_0464,Old House,Sport,1993,38,English,USA,4.9,176,2021-05-04
+movie_0465,Battle Fire,Romance,2006,91,Korean,USA,7.4,,2023-08-04
+movie_0466,Ice Secret,Horror,2011,132,English,USA,5.5,,2021-06-26
+movie_0467,City Fire,Sci-Fi,1996,68,English,USA,7.1,,2023-11-05
+movie_0468,King Phoenix,Action,1992,27,Spanish,USA,7,117,2023-06-17
+movie_0469,Hero Empire,Crime,2002,92,English,South Korea,,,2020-12-27
+movie_0470,Mystery House,Biography,1994,112,Italian,USA,5.7,,2025-06-30
+movie_0471,Our Journey,Documentary,2017,45,Italian,India,8,177,2023-11-19
+movie_0472,Quest House,Action,1995,113,English,USA,5.9,,2021-09-05
+movie_0473,Journey House,Animation,1998,95,German,USA,5.5,,2021-11-01
+movie_0474,Family Quest,Drama,2007,37,English,Canada,7,21,2020-08-19
+movie_0475,A Secret,Drama,2014,112,French,Germany,5.2,,2022-10-20
+movie_0476,Bright Storm,Action,2016,35,Spanish,South Korea,,176,2024-09-11
+movie_0477,Dragon War,Mystery,2003,524,Spanish,USA,5,199,2024-05-09
+movie_0478,House Storm,Comedy,2004,138,English,Canada,3.2,,2022-09-01
+movie_0479,Little House,Biography,2013,56,Spanish,South Korea,6.8,94,2020-09-13
+movie_0480,Princess Secret,History,2013,118,English,USA,5.1,,2025-07-21
+movie_0481,Ice Story,War,2021,122,English,UK,6.3,,2024-09-05
+movie_0482,Love Battle,History,1997,32,English,USA,,120,2022-10-15
+movie_0483,War Journey,Family,2018,170,English,USA,4,,2023-01-26
+movie_0484,Secret King,Animation,1994,90,Japanese,South Korea,4.8,,2020-08-24
+movie_0485,Bright Queen,Drama,1998,133,French,USA,7.8,,2023-11-06
+movie_0486,Story Warrior,Sci-Fi,1999,126,English,South Korea,6.4,,2023-01-04
+movie_0487,Mystery Secret,History,1999,75,Korean,USA,6.6,,2021-05-26
+movie_0488,My Mystery,Thriller,2013,111,Hindi,Canada,,,2023-07-16
+movie_0489,New Dream,Sport,2023,97,English,USA,,,2021-07-11
+movie_0490,A Storm,Sci-Fi,1996,118,Hindi,Canada,,,2022-11-12
+movie_0491,New Warrior,Romance,1999,80,English,Japan,8.1,,2025-06-18
+movie_0492,Battle Love,Documentary,2009,54,English,Canada,5.8,9,2021-09-14
+movie_0493,Story Fire,War,2023,34,English,UK,6.1,,2024-04-16
+movie_0494,Last Day,Music,2005,44,English,Germany,5.6,10,2023-07-17
+movie_0495,City Legend,War,1997,44,English,USA,7.7,64,2024-01-14
+movie_0496,Last Mission,Action,2002,65,German,Japan,1.2,,2023-01-07
+movie_0497,Big Warrior,Family,1990,31,English,USA,4.7,31,2025-07-13
+movie_0498,Day Dragon,Western,2024,71,English,USA,6.3,37,2021-03-04
+movie_0499,Family Story,Western,1998,43,English,USA,7.9,163,2023-10-01
+movie_0500,My Journey,Music,1990,33,English,USA,3.9,199,2025-06-10
+movie_0501,Hero Dragon,Comedy,1995,100,English,USA,9,,2022-09-13
+movie_0502,Love Legend,Sci-Fi,1993,51,Spanish,USA,6,,2024-02-16
+movie_0503,An Dragon,Horror,1999,31,Japanese,USA,7,80,2020-08-03
+movie_0504,Princess Queen,Animation,2001,36,English,USA,8.4,8,2023-10-08
+movie_0505,Phoenix Day,Western,1994,117,Korean,USA,8.5,,2023-07-08
+movie_0506,Love Dream,Drama,1997,73,French,USA,7.4,73,2024-03-12
+movie_0507,Old Empire,Thriller,1991,118,Spanish,USA,4.9,,2025-06-14
+movie_0508,Last Hero,Adventure,1956,123,English,Canada,8.1,,2023-10-13
+movie_0509,Queen House,Western,1996,112,English,USA,6.1,,2025-05-23
+movie_0510,Queen Kingdom,History,2015,100,Japanese,USA,0.7,,2020-12-23
+movie_0511,Dragon Princess,Music,2018,92,Spanish,South Korea,5.2,,2022-06-04
+movie_0512,An Princess,Romance,2017,93,English,USA,0.7,,2021-12-02
+movie_0513,Night Dragon,Drama,2008,117,English,South Korea,8.1,,2023-03-03
+movie_0514,Love Love,Animation,2003,89,French,USA,5.4,,2021-09-08
+movie_0515,Secret House,Sci-Fi,2006,30,English,Canada,,58,2021-03-22
+movie_0516,Dragon Storm,Action,2020,78,English,Canada,4.9,,2024-08-17
+movie_0517,Storm Legend,War,1998,48,English,Japan,6,85,2021-07-21
+movie_0518,A Quest,Horror,2002,89,Spanish,USA,8.3,,2025-01-09
+movie_0519,Quest House,Fantasy,2020,98,English,USA,5.9,,2025-06-11
+movie_0520,Big Queen,Biography,1992,28,English,Germany,6.5,9,2023-05-25
+movie_0521,Quest House,Crime,2017,114,French,USA,5.6,,2024-07-31
+movie_0522,Big Warrior,Romance,2018,62,Hindi,Germany,8.1,,2022-08-31
+movie_0523,Mystery War,Fantasy,1981,159,Italian,South Korea,6.9,,2023-12-08
+movie_0524,Kingdom City,Crime,2019,105,English,Germany,4.3,,2023-02-07
+movie_0525,Night Warrior,Animation,2006,69,English,USA,5.1,,2022-05-10
+movie_0526,Journey Warrior,Drama,2000,61,English,Canada,,,2023-02-20
+movie_0527,Hero Story,Crime,1993,95,English,South Korea,,,2025-01-22
+movie_0528,Queen Empire,Biography,1995,91,French,USA,1.3,,2020-08-20
+movie_0529,Legend Warrior,Music,1996,62,Korean,USA,7.5,,2024-04-17
+movie_0530,Night Legend,Romance,2015,91,Japanese,USA,5.3,,2025-04-22
+movie_0531,Last Night,Western,2000,106,English,Japan,10,,2025-04-01
+movie_0532,First Phoenix,Adventure,1998,36,English,USA,,15,2025-04-11
+movie_0533,First Ice,Thriller,2007,61,English,USA,6,,2025-01-11
+movie_0534,Big Family,War,1991,14,English,USA,7.9,36,2022-08-26
+movie_0535,Last Phoenix,Romance,1993,71,Hindi,Canada,4.8,126,2021-11-21
+movie_0536,Bright Hero,Western,1992,36,Japanese,USA,,76,2023-08-28
+movie_0537,New Story,Horror,1998,67,Italian,UK,5.6,,2022-08-16
+movie_0538,Storm Dream,Thriller,2002,80,Spanish,France,4.9,,2022-10-21
+movie_0539,Queen Queen,Family,2021,106,English,USA,6.2,,2021-03-18
+movie_0540,Warrior Story,Music,2004,86,Italian,USA,7.7,,2020-09-03
+movie_0541,Princess Love,Adventure,2024,76,Japanese,USA,4.8,,2021-02-28
+movie_0542,Storm Empire,Horror,2004,82,English,USA,4.9,,2022-09-29
+movie_0543,War Adventure,War,2003,24,English,Germany,4.8,170,2024-08-24
+movie_0544,Hero Quest,Comedy,1990,70,English,Germany,5.9,,2022-10-26
+movie_0545,Little Mission,Western,1998,90,Spanish,USA,8.6,,2022-02-22
+movie_0546,New Queen,Adventure,2011,100,Korean,Canada,5.2,,2024-04-18
+movie_0547,Fire Mission,History,2011,55,Italian,South Korea,4.6,41,2025-07-30
+movie_0548,Story Hero,Comedy,1990,92,English,Germany,,,2024-04-13
+movie_0549,A Adventure,Crime,1995,130,English,USA,,,2021-10-04
+movie_0550,Dark Ice,War,2001,59,Spanish,USA,6.2,,2023-11-03
+movie_0551,Warrior Quest,Mystery,2012,109,English,USA,,,2023-09-08
+movie_0552,A Mission,Romance,2017,88,English,UK,,,2025-01-17
+movie_0553,Mystery City,Music,2010,93,English,Germany,6,,2024-06-22
+movie_0554,Fire Queen,History,2009,84,German,Canada,7.8,,2021-11-28
+movie_0555,Ice Phoenix,Comedy,2011,22,English,Germany,3,141,2025-04-06
+movie_0556,Empire Princess,Animation,2001,108,English,USA,6.8,,2023-09-10
+movie_0557,Queen Hero,Sport,2020,147,English,USA,7.8,,2022-03-09
+movie_0558,Last Phoenix,Music,2011,28,Spanish,USA,5.6,185,2020-08-13
+movie_0559,Mystery Dragon,Romance,2001,73,English,South Korea,,,2021-07-05
+movie_0560,Ice Queen,Adventure,1997,51,English,Germany,,,2025-04-19
+movie_0561,Quest Secret,Western,1990,54,English,UK,3.8,38,2023-03-05
+movie_0562,Legend Queen,Action,2006,137,English,Germany,,,2024-06-18
+movie_0563,Ice Secret,Sport,1995,121,English,USA,7,,2024-10-08
+movie_0564,Mystery Mystery,Documentary,2006,6,English,USA,,177,2024-04-18
+movie_0565,Dragon Family,Music,2005,54,English,USA,6.9,,2021-07-18
+movie_0566,A City,History,2022,110,Hindi,USA,7.2,,2024-10-11
+movie_0567,Journey Kingdom,Fantasy,1993,50,English,USA,5.6,167,2025-01-15
+movie_0568,Dark Legend,Sci-Fi,1956,125,English,Canada,6.2,,2025-03-22
+movie_0569,Legend King,War,1990,59,English,USA,6.3,,2022-04-12
+movie_0570,Mission Storm,Sci-Fi,1999,87,German,USA,5.8,,2023-08-31
+movie_0571,City Princess,Family,2011,73,Japanese,South Korea,4.4,,2024-11-04
+movie_0572,Dream Secret,Documentary,2024,33,English,UK,4.5,105,2021-06-08
+movie_0573,Fire Kingdom,Action,2020,34,Spanish,Germany,6.9,35,2021-08-28
+movie_0574,Journey Princess,Comedy,2012,57,Spanish,USA,5.3,10,2024-08-14
+movie_0575,City Quest,Drama,2021,86,Spanish,South Korea,1.4,,2024-10-22
+movie_0576,Love Kingdom,Crime,2001,104,Hindi,France,7.1,,2024-09-13
+movie_0577,Family House,Action,2003,53,Japanese,Japan,8.6,74,2023-10-22
+movie_0578,Little Phoenix,Sport,2000,55,Hindi,USA,6.6,29,2023-06-19
+movie_0579,Last Story,Documentary,1978,349,English,South Korea,7,,2024-02-05
+movie_0580,Last Love,Crime,2014,74,English,South Korea,6.2,,2022-01-19
+movie_0581,Ice Kingdom,Sci-Fi,2016,111,English,USA,2.7,,2023-07-19
+movie_0582,My Queen,Sci-Fi,1990,62,English,USA,7.4,192,2020-11-19
+movie_0583,Hero Ice,Comedy,1999,101,English,USA,6.8,,2023-07-24
+movie_0584,Family Storm,Romance,2006,89,English,USA,3.8,,2023-10-31
+movie_0585,Quest Battle,Comedy,2023,59,Spanish,USA,,101,2020-11-25
+movie_0586,A Adventure,Drama,2021,99,English,USA,4.4,,2021-10-26
+movie_0587,A Quest,Family,2020,51,English,India,5.9,,2022-05-14
+movie_0588,Queen Queen,Sci-Fi,1997,122,English,India,2.5,,2023-09-15
+movie_0589,Family Adventure,Mystery,2011,332,Korean,USA,7.3,79,2021-08-11
+movie_0590,Secret City,War,2012,104,English,India,5.4,,2022-12-15
+movie_0591,City Empire,Mystery,1995,94,German,USA,,77,2024-08-01
+movie_0592,King Adventure,Drama,2018,117,Italian,USA,6.2,,2025-03-12
+movie_0593,Queen Dragon,Family,2001,72,Spanish,Germany,,,2022-04-24
+movie_0594,Journey Day,Drama,2003,153,French,Canada,6.6,,2024-11-16
+movie_0595,An Empire,Animation,1998,28,English,France,8.3,104,2022-06-30
+movie_0596,Phoenix Adventure,Documentary,1993,33,English,USA,7.5,12,2020-11-12
+movie_0597,War Journey,Comedy,1996,77,English,USA,3.6,,2021-12-24
+movie_0598,Queen Quest,Biography,1995,166,English,India,6.9,,2022-10-11
+movie_0599,Quest War,Thriller,1994,89,English,USA,4.9,,2022-02-26
+movie_0600,Big Adventure,History,1992,40,Korean,South Korea,,173,2022-12-08
+movie_0601,Secret Mission,Horror,2016,99,Japanese,Germany,6.5,,2021-01-20
+movie_0602,Queen Family,Mystery,2012,70,Japanese,Japan,,,2020-12-15
+movie_0603,Last Kingdom,War,1996,113,English,USA,6.6,,2024-06-23
+movie_0604,Empire War,Western,2019,42,English,USA,5.4,112,2021-08-22
+movie_0605,An War,Romance,2014,138,English,South Korea,5.6,,2024-09-07
+movie_0606,Legend Fire,Comedy,1993,96,English,UK,9.3,,2024-04-25
+movie_0607,The War,Romance,2002,86,English,USA,7.6,,2024-06-15
+movie_0608,King Warrior,Western,1991,6,English,India,5.1,99,2023-06-05
+movie_0609,Old Family,Action,2018,43,Spanish,South Korea,,182,2024-10-14
+movie_0610,Princess Legend,Thriller,2004,43,French,Japan,4.4,,2022-10-08
+movie_0611,Big Adventure,Documentary,2017,126,English,USA,1.3,,2023-07-31
+movie_0612,Kingdom Empire,Music,2009,66,English,USA,5.4,,2021-12-19
+movie_0613,Princess Day,Sci-Fi,1993,30,English,USA,4.6,19,2024-12-27
+movie_0614,Day Day,Comedy,2019,108,English,Japan,4.6,,2024-11-20
+movie_0615,An Fire,Crime,2016,136,English,Japan,5.1,,2022-02-02
+movie_0616,First Ice,Adventure,2007,96,English,South Korea,7.1,,2022-12-06
+movie_0617,Quest War,War,2023,146,English,Germany,7.1,,2024-06-27
+movie_0618,First Kingdom,War,2014,58,English,South Korea,,152,2024-05-30
+movie_0619,My Story,Crime,2014,570,Japanese,UK,4.8,,2021-03-03
+movie_0620,Dark Secret,Animation,1997,111,English,USA,7.9,,2020-10-28
+movie_0621,Battle War,History,2023,53,Hindi,USA,7,95,2022-06-05
+movie_0622,An Journey,Western,2005,130,Italian,South Korea,3.4,,2020-08-06
+movie_0623,Family Day,Family,2013,54,English,USA,9.3,,2023-08-08
+movie_0624,Mystery Mystery,Romance,2015,101,English,USA,5.7,,2021-03-11
+movie_0625,Day Night,Documentary,2003,105,English,USA,,,2021-10-13
+movie_0626,Journey Mystery,Western,2009,21,English,South Korea,5.3,,2025-03-18
+movie_0627,Love Legend,Western,2018,121,English,Germany,6.5,,2024-12-29
+movie_0628,Phoenix Story,Music,2010,45,English,Canada,8,170,2024-04-11
+movie_0629,Adventure Secret,Adventure,1999,104,Japanese,USA,8.2,,2023-11-14
+movie_0630,War Secret,Sport,2024,56,Japanese,USA,,,2024-04-15
+movie_0631,Warrior Kingdom,War,2003,81,English,South Korea,4.8,,2022-11-26
+movie_0632,Day Dragon,Adventure,2004,89,French,Germany,6.4,,2020-11-20
+movie_0633,Warrior Ice,Biography,2000,43,English,USA,6.6,29,2020-09-15
+movie_0634,War Phoenix,Action,1997,74,English,Germany,8,,2022-04-20
+movie_0635,Dream Family,Comedy,1995,30,French,South Korea,4.8,172,2023-05-29
+movie_0636,Last Mission,Music,2009,51,English,USA,,,2023-01-23
+movie_0637,Old Battle,Family,2006,58,English,USA,5.5,83,2021-10-03
+movie_0638,Quest Family,Romance,2001,65,English,USA,6.1,25,2024-05-16
+movie_0639,Quest Fire,Sport,1996,68,English,Canada,4.8,37,2021-05-03
+movie_0640,Warrior Legend,Horror,2002,88,Korean,India,6.1,,2023-02-28
+movie_0641,First Dream,Thriller,2023,62,English,USA,10,54,2025-01-29
+movie_0642,Hero Dragon,Romance,2011,20,Italian,Canada,,37,2021-04-26
+movie_0643,Fire Phoenix,Drama,2018,45,Japanese,South Korea,5.3,91,2020-09-07
+movie_0644,Kingdom Hero,Mystery,2010,24,Italian,South Korea,6.2,197,2021-12-13
+movie_0645,Last Secret,Adventure,1991,62,Korean,France,1.8,,2022-11-07
+movie_0646,King Adventure,Fantasy,2015,104,English,France,7.5,,2021-09-09
+movie_0647,Story Journey,Music,2010,159,French,France,8.2,,2020-10-30
+movie_0648,An Ice,Horror,2012,138,English,USA,4.9,,2020-12-17
+movie_0649,King Battle,War,2014,52,Spanish,UK,,45,2023-02-22
+movie_0650,First Kingdom,Adventure,2020,99,English,USA,5.2,,2022-11-28
+movie_0651,Phoenix Day,Documentary,2019,114,English,USA,4.1,,2024-02-29
+movie_0652,Our Night,History,2015,102,English,USA,10,,2024-10-15
+movie_0653,House Story,Music,1993,334,English,South Korea,5,,2025-06-05
+movie_0654,Adventure Legend,Drama,2011,67,English,USA,6.5,,2022-12-09
+movie_0655,Hero Kingdom,Fantasy,1995,166,English,USA,7.5,,2022-11-10
+movie_0656,Phoenix Ice,Animation,2024,63,English,USA,4.9,132,2025-03-17
+movie_0657,Battle Queen,Romance,2014,52,English,South Korea,6.5,178,2024-08-04
+movie_0658,Empire Love,Mystery,2010,51,Japanese,USA,,58,2023-09-05
+movie_0659,Little Night,Sci-Fi,2009,40,English,USA,,171,2025-06-01
+movie_0660,Fire Secret,Adventure,1990,121,English,South Korea,8.6,,2023-12-04
+movie_0661,House Night,Horror,1992,58,English,South Korea,6.5,162,2021-04-22
+movie_0662,Bright Family,Documentary,1997,65,English,USA,7.9,,2020-09-13
+movie_0663,Phoenix Legend,Biography,2008,32,English,South Korea,6.5,23,2025-05-16
+movie_0664,An Princess,History,2020,107,English,USA,6.5,,2021-08-23
+movie_0665,Legend Dragon,Biography,2009,136,French,South Korea,8.7,,2020-09-13
+movie_0666,Day City,Adventure,2014,110,English,India,9.6,,2025-04-06
+movie_0667,Empire Story,Sci-Fi,1995,143,English,USA,6.7,,2023-03-06
+movie_0668,Day Journey,Crime,2013,50,Korean,South Korea,3.1,,2022-02-22
+movie_0669,Dark Phoenix,Biography,2012,56,English,France,6.8,123,2023-11-10
+movie_0670,Phoenix Queen,Drama,2007,72,English,India,6.9,,2021-11-23
+movie_0671,War Storm,Animation,2006,57,Hindi,USA,6.4,180,2022-10-25
+movie_0672,Kingdom Dream,Biography,2011,152,French,Canada,5.6,,2023-03-26
+movie_0673,Fire Hero,Fantasy,2004,141,Spanish,UK,8.3,,2024-04-24
+movie_0674,Storm Night,Adventure,1997,77,Italian,India,7.1,26,2022-12-01
+movie_0675,Phoenix Princess,Action,2019,76,German,USA,6.3,73,2021-08-11
+movie_0676,Dream Hero,Adventure,2004,174,English,France,9,,2024-02-04
+movie_0677,Legend Journey,Adventure,1991,74,Italian,UK,7.7,,2021-03-03
+movie_0678,Secret Legend,Documentary,2005,97,French,USA,,,2023-06-25
+movie_0679,Dark Dragon,Horror,2015,87,English,South Korea,5.2,,2024-03-10
+movie_0680,Battle Dream,Thriller,2007,128,French,USA,7.5,,2024-07-20
+movie_0681,A Family,Thriller,2015,27,Spanish,Canada,7.4,,2024-11-08
+movie_0682,Old Queen,Romance,2013,111,English,South Korea,,,2020-11-11
+movie_0683,Little Dream,Animation,1998,61,English,USA,3.7,120,2024-07-08
+movie_0684,Dragon Mission,War,1997,137,English,USA,4.6,,2021-01-30
+movie_0685,Family Mystery,Romance,1999,522,Korean,USA,5.9,,2024-12-14
+movie_0686,Night Princess,History,1998,12,English,Canada,6.4,41,2022-09-21
+movie_0687,Adventure Warrior,Crime,2014,47,English,USA,8.4,57,2021-10-25
+movie_0688,Battle Storm,Animation,2024,103,English,South Korea,4.8,,2025-07-11
+movie_0689,City Story,Western,2006,97,English,Germany,,,2022-10-01
+movie_0690,Secret Family,Romance,1990,100,Hindi,France,5.4,,2022-11-22
+movie_0691,Dream Adventure,Fantasy,2014,106,English,South Korea,6.4,,2025-01-05
+movie_0692,Little Phoenix,Fantasy,2002,83,English,Germany,6.6,,2023-02-15
+movie_0693,Storm Kingdom,Crime,2016,149,Spanish,USA,,,2023-09-10
+movie_0694,Kingdom Day,Action,1996,89,English,UK,5.9,,2023-01-14
+movie_0695,Storm Journey,Mystery,2013,52,Korean,India,6.6,89,2021-02-15
+movie_0696,House Empire,Biography,2010,54,Korean,USA,7.2,174,2023-08-19
+movie_0697,Journey Fire,Music,2015,38,Italian,South Korea,4,65,2020-08-15
+movie_0698,A Adventure,Western,2018,126,English,USA,4.7,,2023-06-21
+movie_0699,Our King,Western,2007,22,English,Canada,8,151,2022-07-22
+movie_0700,A Secret,Biography,1995,94,English,USA,6.3,,2024-04-09
+movie_0701,Adventure Mission,Animation,2012,74,Hindi,Canada,4.9,197,2024-05-08
+movie_0702,Mystery Legend,Fantasy,2007,87,German,UK,,,2021-09-30
+movie_0703,Mystery Legend,History,1993,128,English,Germany,5.6,,2023-12-01
+movie_0704,Dark Mystery,Western,2000,144,English,USA,,,2024-11-06
+movie_0705,House Secret,Romance,2022,61,Hindi,USA,,,2025-03-08
+movie_0706,New City,Drama,2011,72,English,USA,6.4,,2021-03-05
+movie_0707,Fire Warrior,Romance,2003,29,Korean,India,2.6,143,2022-08-16
+movie_0708,My Love,Music,2012,134,English,USA,,,2022-04-17
+movie_0709,Kingdom Princess,Sci-Fi,2011,109,English,UK,,,2022-10-06
+movie_0710,Little Warrior,Sci-Fi,2002,104,French,USA,8.7,,2024-03-02
+movie_0711,Empire Kingdom,Drama,1963,92,German,Japan,7.7,,2023-11-25
+movie_0712,A Day,Family,1994,28,Spanish,Canada,,,2023-11-22
+movie_0713,Princess Quest,War,1992,103,Spanish,Canada,,,2024-05-02
+movie_0714,House Dream,Adventure,2002,47,English,USA,7,108,2023-11-18
+movie_0715,City Mystery,Horror,2002,116,English,USA,5.6,,2024-11-07
+movie_0716,Love Battle,War,2022,91,English,Germany,4.4,,2020-10-15
+movie_0717,Queen Legend,Sport,1995,40,French,UK,5.1,147,2023-10-17
+movie_0718,Mystery Dream,Sci-Fi,2018,35,French,USA,7,66,2025-04-22
+movie_0719,Warrior Dream,Sci-Fi,1991,99,English,Germany,,,2023-10-16
+movie_0720,Legend War,Western,2007,80,English,USA,6.5,,2023-11-07
+movie_0721,Dream Dream,Horror,2022,37,French,USA,5.9,67,2024-06-23
+movie_0722,Battle Mission,Romance,2024,15,Japanese,USA,5.6,185,2022-07-13
+movie_0723,House Day,Thriller,2000,128,Hindi,UK,8,,2025-02-25
+movie_0724,War Story,War,2017,26,English,USA,8,93,2022-01-24
+movie_0725,Old King,Music,2018,110,Italian,USA,8.1,,2021-03-20
+movie_0726,The Mystery,Action,2021,13,Korean,South Korea,,,2021-01-12
+movie_0727,Last Journey,Western,2003,41,English,UK,8.2,88,2021-11-22
+movie_0728,Phoenix Day,Crime,1998,89,English,UK,7.6,,2025-04-11
+movie_0729,Big Mission,Sci-Fi,2011,47,English,Canada,7.4,109,2022-02-03
+movie_0730,Adventure Fire,Comedy,2000,91,Spanish,France,5.1,,2025-01-19
+movie_0731,House Mission,Documentary,1998,123,English,Canada,8.6,,2024-10-27
+movie_0732,Legend Ice,Mystery,2000,35,English,USA,6,,2021-03-18
+movie_0733,Story Love,Animation,1992,121,English,USA,7.2,,2024-08-24
+movie_0734,Queen Warrior,Adventure,2017,62,English,Canada,6.5,64,2024-08-15
+movie_0735,Princess Hero,Fantasy,2001,107,German,USA,9.2,,2024-04-01
+movie_0736,Mystery Legend,Music,2004,69,German,Germany,6.3,,2021-09-09
+movie_0737,Legend Love,Comedy,2024,117,Spanish,USA,6.3,,2021-05-31
+movie_0738,Mission Storm,Animation,2020,107,English,USA,,,2025-01-07
+movie_0739,Love Warrior,Action,2020,121,Japanese,UK,7.1,,2024-11-14
+movie_0740,City Mystery,Animation,2011,119,German,USA,5.5,,2023-07-31
+movie_0741,Our Love,Mystery,1992,131,English,UK,4.1,,2023-04-08
+movie_0742,Battle City,Thriller,2009,117,English,USA,6.3,,2024-10-16
+movie_0743,Phoenix City,Documentary,2015,68,Korean,Japan,8.1,,2023-05-29
+movie_0744,A Adventure,Documentary,1994,49,English,South Korea,,,2022-04-19
+movie_0745,Warrior Mystery,Music,2000,54,English,USA,,157,2025-04-29
+movie_0746,Fire Journey,Music,1995,82,Hindi,USA,0.8,,2025-03-09
+movie_0747,Last King,Biography,2000,120,Japanese,South Korea,9.3,,2023-04-21
+movie_0748,War Love,Western,2020,90,Italian,South Korea,4.6,,2024-12-21
+movie_0749,Queen Princess,Documentary,2016,32,English,USA,6.1,155,2022-03-17
+movie_0750,City Dream,History,2021,17,English,USA,5.1,97,2024-03-03
+movie_0751,City Secret,Animation,1997,120,German,UK,4.8,,2024-12-29
+movie_0752,House Story,Horror,2014,98,English,USA,4.6,,2021-12-28
+movie_0753,Kingdom Fire,Action,2002,522,English,USA,4.7,,2021-12-26
+movie_0754,Kingdom Princess,Western,2002,38,Hindi,USA,,94,2021-08-08
+movie_0755,Adventure Princess,Action,2005,67,English,UK,3.7,35,2022-06-13
+movie_0756,Dark Day,Fantasy,2002,105,Spanish,UK,5.9,,2025-07-06
+movie_0757,Old Night,War,1994,128,Korean,South Korea,6.2,,2022-06-27
+movie_0758,Quest Mystery,Sport,2006,124,English,USA,7.7,,2023-08-11
+movie_0759,Legend King,Action,2012,75,Spanish,South Korea,8.1,,2025-02-10
+movie_0760,Empire Love,Sci-Fi,2021,43,English,Japan,7.1,197,2024-09-23
+movie_0761,Dragon Day,Sport,2005,88,Korean,USA,9.5,,2025-06-16
+movie_0762,A Mystery,Family,1997,105,English,Japan,7.8,,2021-09-23
+movie_0763,My Dragon,Comedy,2007,93,Japanese,France,9.2,,2023-05-22
+movie_0764,House Day,Biography,2011,82,English,USA,,,2024-01-31
+movie_0765,War Phoenix,Documentary,2003,439,German,USA,,6,2021-05-12
+movie_0766,Mission Empire,Fantasy,2000,131,English,UK,8.4,,2021-04-01
+movie_0767,Old Fire,Mystery,2007,94,English,USA,6.9,,2023-07-27
+movie_0768,Hero Secret,Biography,2007,60,Hindi,UK,,,2024-02-26
+movie_0769,King Day,Music,2016,129,English,Canada,7.7,,2024-06-24
+movie_0770,Kingdom Dream,Family,2008,30,English,USA,5.9,90,2022-09-27
+movie_0771,First Quest,Horror,1992,30,English,USA,7.2,,2024-07-26
+movie_0772,The Story,Thriller,2012,101,English,France,5.5,,2023-09-03
+movie_0773,Dragon Princess,Mystery,2022,42,English,USA,8.8,191,2022-12-10
+movie_0774,War Adventure,War,2015,105,English,USA,7.4,,2020-12-29
+movie_0775,An Empire,Biography,2002,137,English,South Korea,,,2025-04-13
+movie_0776,My Quest,Sport,2016,38,English,USA,8.6,90,2023-12-09
+movie_0777,House Dragon,Comedy,2018,73,English,USA,6.7,,2023-11-30
+movie_0778,Princess House,History,2012,61,English,India,,15,2025-07-18
+movie_0779,New Family,Family,2023,70,English,South Korea,7,,2022-12-14
+movie_0780,Dream Warrior,Romance,1998,93,Spanish,USA,10,,2022-07-09
+movie_0781,First House,War,2003,86,English,UK,1.7,,2021-06-14
+movie_0782,Last Princess,Crime,2020,98,Hindi,France,8,,2023-12-21
+movie_0783,Love Journey,Horror,2015,109,Hindi,USA,7.9,,2025-01-08
+movie_0784,Kingdom Kingdom,Adventure,2003,111,German,Canada,3,,2025-01-02
+movie_0785,Dragon Family,Adventure,1993,46,English,USA,6.8,101,2025-08-01
+movie_0786,War House,Comedy,2017,82,German,France,6.4,,2025-06-08
+movie_0787,An Family,Animation,1999,11,Italian,USA,6.5,,2024-02-08
+movie_0788,Day Warrior,Documentary,2024,44,Spanish,South Korea,6,,2021-10-10
+movie_0789,Adventure Quest,Action,1996,123,Hindi,UK,5.2,,2025-02-08
+movie_0790,An Night,War,2020,131,English,USA,7.1,,2025-01-22
+movie_0791,City Fire,Documentary,2023,36,English,Canada,6.1,144,2021-05-06
+movie_0792,Princess King,Biography,1998,146,English,Japan,6.8,,2025-06-10
+movie_0793,Bright Secret,Sport,2022,36,Spanish,USA,6,69,2022-11-17
+movie_0794,Warrior War,Sport,1991,102,English,Japan,,,2022-10-20
+movie_0795,Big Fire,Documentary,1993,89,Spanish,USA,5,,2020-12-09
+movie_0796,Bright Mystery,War,1999,140,English,USA,,,2022-12-13
+movie_0797,Fire Night,Animation,1990,29,Spanish,USA,6.6,90,2021-06-06
+movie_0798,Queen Adventure,Adventure,2019,108,English,France,5.5,,2023-08-25
+movie_0799,Fire Secret,Crime,1992,39,English,USA,8.3,163,2023-03-11
+movie_0800,House Fire,Horror,1990,63,English,USA,0.8,,2021-08-18
+movie_0801,House Legend,Thriller,2022,83,English,USA,6.3,22,2025-04-11
+movie_0802,Day Dragon,Adventure,2006,45,French,South Korea,6.2,174,2021-03-13
+movie_0803,Story Mystery,Action,2004,79,Japanese,Japan,,,2022-07-13
+movie_0804,Battle Queen,Mystery,2000,118,English,UK,7,,2025-01-22
+movie_0805,Family Kingdom,Action,1990,70,English,France,2.9,,2024-11-23
+movie_0806,Dream Love,Mystery,2014,31,English,USA,,113,2022-01-25
+movie_0807,Mystery Quest,Sci-Fi,2017,110,English,UK,7.2,,2024-12-02
+movie_0808,Ice Storm,Fantasy,2006,42,Japanese,USA,8.4,159,2025-04-12
+movie_0809,Kingdom Dragon,Music,2009,69,Korean,USA,6.3,,2020-08-08
+movie_0810,Love Battle,Documentary,2001,94,English,UK,7.5,,2024-05-09
+movie_0811,Battle King,Thriller,1998,22,English,Canada,5.2,177,2020-11-24
+movie_0812,Quest Night,Music,1992,98,English,USA,,,2021-07-20
+movie_0813,Secret Night,Documentary,2001,146,English,UK,6.3,,2021-07-08
+movie_0814,Adventure Legend,Adventure,2004,62,Korean,USA,6.3,13,2022-03-04
+movie_0815,Story Battle,Thriller,2012,50,Italian,USA,,,2021-08-09
+movie_0816,Legend Empire,Western,2010,55,Japanese,South Korea,7,,2022-06-07
+movie_0817,Story Legend,Drama,2006,47,Hindi,USA,,,2021-09-11
+movie_0818,Our King,History,1997,71,English,South Korea,6.6,,2021-09-12
+movie_0819,Night House,Horror,2019,78,English,USA,0.6,,2024-10-15
+movie_0820,Fire Phoenix,Fantasy,1993,53,French,UK,,178,2020-12-02
+movie_0821,Hero King,Sci-Fi,2011,109,Spanish,USA,4,,2023-12-20
+movie_0822,Family Mystery,War,2002,47,English,USA,6.8,91,2021-02-19
+movie_0823,Adventure Ice,Comedy,1992,87,English,UK,,,2022-01-15
+movie_0824,War Queen,Comedy,1998,136,English,Japan,6.3,,2021-03-22
+movie_0825,Warrior Story,Romance,2008,131,Spanish,USA,,,2020-09-28
+movie_0826,Dark Adventure,Adventure,2014,53,English,USA,5,,2023-04-13
+movie_0827,Mystery House,Family,2021,139,Hindi,USA,,,2024-10-22
+movie_0828,My Fire,Sport,2010,92,English,Canada,7.1,,2024-08-27
+movie_0829,A Dream,Sci-Fi,2017,149,English,USA,6.9,,2022-07-14
+movie_0830,Storm Mystery,Comedy,2019,144,French,USA,10,,2023-09-25
+movie_0831,Quest Hero,Fantasy,2018,91,English,France,7,,2023-09-01
+movie_0832,Dark Princess,Mystery,2024,123,English,USA,7.5,,2023-11-25
+movie_0833,Mystery Mystery,Biography,1999,114,Korean,USA,4,,2022-09-13
+movie_0834,The Mission,Crime,2009,25,Japanese,USA,7.1,118,2024-01-22
+movie_0835,Bright Ice,Mystery,2021,95,French,South Korea,7.9,,2021-06-10
+movie_0836,Our Legend,War,2015,113,Korean,USA,6.4,,2021-07-04
+movie_0837,Princess Adventure,Action,2015,140,Korean,USA,4.9,,2024-07-06
+movie_0838,Adventure Hero,Western,2018,50,English,France,8.1,121,2023-10-10
+movie_0839,Journey War,War,1991,153,English,UK,8.4,,2025-05-06
+movie_0840,Family Kingdom,Adventure,2016,107,English,USA,5.1,,2024-02-17
+movie_0841,Day Mystery,Mystery,1997,113,French,USA,6,,2024-02-03
+movie_0842,Storm Mission,Action,1996,28,Korean,USA,4.4,,2022-09-24
+movie_0843,War Fire,Comedy,1998,60,English,USA,4.8,,2024-03-28
+movie_0844,Journey Story,Comedy,2001,67,English,USA,5.1,,2024-09-25
+movie_0845,Little House,Thriller,1996,40,Spanish,South Korea,8,52,2024-03-16
+movie_0846,Storm Family,Action,2024,61,English,USA,4.8,,2024-03-03
+movie_0847,Mystery War,Action,1992,63,English,Canada,9.1,176,2024-10-05
+movie_0848,Dark Fire,Biography,2014,61,French,USA,3.8,55,2021-12-16
+movie_0849,House King,Adventure,1994,136,English,South Korea,5.3,,2021-03-02
+movie_0850,Mystery City,Horror,1999,109,English,USA,4.3,,2022-09-03
+movie_0851,City Battle,Fantasy,2003,58,English,UK,6.8,,2025-01-06
+movie_0852,Dream Hero,Family,2004,34,English,Canada,,58,2025-04-28
+movie_0853,Family Journey,Fantasy,2018,37,French,South Korea,,25,2021-09-08
+movie_0854,Dark House,Fantasy,2012,117,English,USA,7.8,,2024-07-16
+movie_0855,First Night,Animation,2024,137,Korean,France,7,,2021-06-05
+movie_0856,Big King,Fantasy,2017,76,English,South Korea,3.3,,2022-06-13
+movie_0857,Day Warrior,Sport,2011,61,English,Canada,3.7,,2024-01-19
+movie_0858,Fire Mystery,Horror,1997,28,French,USA,4.6,68,2024-03-21
+movie_0859,First Mission,Action,2017,98,English,USA,5.3,,2022-06-24
+movie_0860,Our Love,Animation,2020,40,English,USA,,,2021-05-06
+movie_0861,Night Journey,Western,2022,50,Italian,USA,7.7,,2024-06-16
+movie_0862,Day Quest,Family,2002,530,Hindi,South Korea,6.3,,2020-11-27
+movie_0863,Fire House,Music,2003,139,French,USA,7.3,,2025-07-15
+movie_0864,Dragon Hero,Sci-Fi,2012,100,English,USA,5.7,,2024-01-30
+movie_0865,Dark Mission,Sport,2022,118,French,USA,8.4,,2025-06-04
+movie_0866,Love King,Comedy,1997,75,English,Japan,4.1,44,2022-10-18
+movie_0867,Story Legend,Mystery,2008,103,Spanish,South Korea,9.6,,2022-04-21
+movie_0868,War Empire,Crime,1965,77,English,France,6.5,150,2021-09-29
+movie_0869,Old City,Animation,2001,74,English,USA,5.8,,2023-03-10
+movie_0870,Little Phoenix,Music,2022,100,English,France,,,2021-03-14
+movie_0871,Princess City,Animation,1994,80,English,USA,5.6,144,2023-01-01
+movie_0872,Journey Journey,Action,1996,46,English,USA,7.1,,2022-04-02
+movie_0873,The City,Western,2000,130,English,USA,5.5,,2024-03-19
+movie_0874,Family Legend,Romance,2017,81,English,USA,6,133,2023-04-22
+movie_0875,Empire Dragon,Fantasy,2016,41,English,USA,6.2,156,2024-01-10
+movie_0876,Mystery War,Action,2018,31,French,India,,182,2023-08-20
+movie_0877,Family Dragon,Sci-Fi,2016,122,Japanese,France,6.4,,2024-09-27
+movie_0878,Mystery Battle,Animation,2021,65,Spanish,Canada,7,48,2020-10-29
+movie_0879,Storm Fire,Action,1998,37,English,USA,7.5,65,2025-03-16
+movie_0880,My Dragon,Drama,2002,94,Italian,USA,8.5,,2022-02-21
+movie_0881,Adventure Dream,Comedy,1993,121,Italian,USA,4.5,,2024-11-23
+movie_0882,Little Mystery,Horror,2002,52,English,USA,,81,2021-05-06
+movie_0883,An Mission,Mystery,2008,17,English,India,5.4,156,2021-09-22
+movie_0884,Queen King,Animation,2000,74,English,Japan,9,,2021-07-30
+movie_0885,Battle Fire,Comedy,2015,74,English,USA,,,2025-02-26
+movie_0886,Empire King,Adventure,2015,51,German,Canada,5.7,,2023-12-17
+movie_0887,Warrior Phoenix,Music,2004,115,English,USA,4.1,,2023-03-09
+movie_0888,Adventure Phoenix,Documentary,2009,61,English,South Korea,7.1,196,2024-06-20
+movie_0889,Love Princess,Crime,2002,71,Spanish,Japan,5.9,,2024-06-21
+movie_0890,War Fire,Music,2008,14,English,USA,,,2025-06-07
+movie_0891,Ice House,Western,2018,81,French,UK,8.6,,2024-08-29
+movie_0892,Dark Dragon,Documentary,1991,79,Spanish,South Korea,5.1,,2024-05-16
+movie_0893,Love Mission,Adventure,2011,27,English,USA,6.7,,2025-07-15
+movie_0894,Mystery Secret,Thriller,2013,155,Italian,South Korea,,,2021-04-12
+movie_0895,House War,Animation,2014,82,English,USA,7.5,,2025-03-18
+movie_0896,Phoenix Hero,Romance,2018,76,English,Japan,6.6,,2023-09-30
+movie_0897,First Storm,Western,1995,456,English,USA,9.5,,2021-03-10
+movie_0898,First Family,Adventure,2008,125,English,Canada,8.9,,2021-08-28
+movie_0899,City Phoenix,History,2002,43,Spanish,USA,6.6,,2020-12-19
+movie_0900,Ice Love,Drama,2001,66,Japanese,USA,9.5,,2022-07-24
+movie_0901,First Hero,War,2013,28,English,USA,4.7,30,2020-08-12
+movie_0902,Mystery Ice,Action,2004,41,English,USA,3.7,56,2024-10-22
+movie_0903,Secret Battle,Animation,2024,63,German,USA,8.3,,2023-08-30
+movie_0904,Battle Mission,Biography,2007,106,Hindi,USA,5,,2023-07-20
+movie_0905,Dark Quest,Adventure,2020,153,English,USA,6.3,,2024-02-17
+movie_0906,Mystery Mystery,Fantasy,2018,93,English,USA,3.5,,2023-06-07
+movie_0907,Phoenix Secret,Romance,1993,59,English,Japan,4.2,189,2023-08-14
+movie_0908,Love War,Sport,1990,86,English,USA,6.2,,2021-06-13
+movie_0909,Day Mission,Romance,2000,86,German,USA,7.1,,2021-09-12
+movie_0910,Night Battle,Thriller,2000,62,English,USA,6.2,,2021-03-21
+movie_0911,Bright Dragon,Thriller,2018,55,English,USA,7.9,,2022-09-23
+movie_0912,Mission Night,Adventure,2015,72,English,USA,2.6,,2023-01-10
+movie_0913,Empire Secret,Crime,2020,29,Japanese,UK,7.8,70,2024-04-25
+movie_0914,Love Secret,Music,2018,100,English,USA,3.3,,2023-03-19
+movie_0915,Journey Adventure,Romance,2004,36,English,France,8.8,27,2025-07-10
+movie_0916,Adventure Dream,Documentary,2017,97,English,USA,7.7,,2022-03-28
+movie_0917,Adventure Ice,Adventure,2004,65,German,UK,,,2021-07-21
+movie_0918,Secret Phoenix,Sport,2002,59,English,South Korea,6.4,,2021-02-08
+movie_0919,The War,War,2012,99,English,USA,4.5,,2022-10-08
+movie_0920,Story Warrior,Music,1998,129,English,Canada,10,,2021-07-11
+movie_0921,Phoenix House,War,1998,114,Hindi,Japan,7.1,,2024-01-14
+movie_0922,Our Story,Crime,2017,118,French,Canada,8,,2024-11-29
+movie_0923,Last Phoenix,Adventure,1995,45,English,USA,5.7,182,2020-08-20
+movie_0924,Fire King,Drama,2022,64,Spanish,USA,,98,2021-07-22
+movie_0925,Quest Princess,Mystery,2005,134,English,France,6.2,,2025-06-16
+movie_0926,Family Queen,Sci-Fi,2024,125,Spanish,USA,,,2024-05-02
+movie_0927,Fire Ice,Sci-Fi,2008,40,French,France,6.7,37,2022-09-03
+movie_0928,Little Dream,Horror,2008,54,Spanish,USA,5.9,131,2023-12-13
+movie_0929,Fire King,Adventure,2001,144,English,USA,6.4,,2023-01-26
+movie_0930,Dark Day,Animation,1991,18,English,Canada,5.8,99,2025-04-30
+movie_0931,Family King,War,2011,91,English,USA,4.2,,2020-08-12
+movie_0932,Hero Empire,Sci-Fi,1992,63,English,USA,9,46,2021-04-22
+movie_0933,Princess Family,Horror,2014,136,Hindi,USA,7.5,,2023-01-06
+movie_0934,Kingdom House,Comedy,2018,23,English,Canada,6.8,22,2021-03-02
+movie_0935,Day Adventure,Thriller,2003,122,French,USA,,,2021-10-31
+movie_0936,Quest Empire,Family,2019,85,English,USA,3.7,,2024-12-04
+movie_0937,Journey House,History,2010,108,English,USA,0.6,,2020-11-26
+movie_0938,Old House,Crime,1995,116,English,USA,1.7,,2021-04-05
+movie_0939,Dragon War,Crime,2000,66,English,Canada,6.2,117,2021-07-08
+movie_0940,Fire Warrior,Documentary,2016,69,English,USA,7.5,146,2020-11-15
+movie_0941,A Mystery,War,2023,117,Spanish,Germany,5.6,,2025-05-01
+movie_0942,King Legend,Mystery,1999,98,English,Canada,5.9,,2022-12-31
+movie_0943,Dream Adventure,Music,2021,49,English,Japan,9.4,52,2022-12-04
+movie_0944,Dark Love,Sci-Fi,1990,103,English,Japan,8.3,,2023-07-21
+movie_0945,Secret Ice,Sport,2010,97,English,USA,6.6,,2023-04-30
+movie_0946,Quest Warrior,Comedy,2001,83,English,France,6.5,,2023-09-28
+movie_0947,Secret Mission,Biography,1999,84,Spanish,USA,9.3,,2023-04-23
+movie_0948,Little Night,History,2015,52,English,USA,6.8,164,2022-11-15
+movie_0949,Warrior Adventure,History,2006,106,Italian,USA,6,,2023-10-16
+movie_0950,War Day,Thriller,2000,55,Korean,USA,6.1,184,2024-03-30
+movie_0951,Big House,Horror,2020,38,English,USA,6.7,72,2020-09-20
+movie_0952,Queen Day,Western,2009,121,English,USA,8.8,,2023-07-21
+movie_0953,Bright Love,Drama,1999,108,Spanish,South Korea,5,,2020-11-27
+movie_0954,Mission Adventure,Comedy,2020,151,German,USA,5.6,,2020-10-20
+movie_0955,Queen Empire,Fantasy,2022,87,Spanish,USA,7.2,,2022-03-03
+movie_0956,A Love,Adventure,2001,97,English,USA,8.4,,2023-01-20
+movie_0957,Storm Love,Sci-Fi,2024,102,Italian,Canada,6.3,,2021-05-24
+movie_0958,Story Warrior,Thriller,2022,104,English,USA,9.1,,2021-05-19
+movie_0959,A Dragon,Animation,2016,51,French,USA,8.9,17,2023-05-11
+movie_0960,Quest Quest,Animation,2015,29,English,Canada,7,46,2022-02-23
+movie_0961,Story Mystery,Fantasy,2014,115,Spanish,South Korea,7.3,,2025-04-30
+movie_0962,City Ice,History,2018,45,English,USA,6.8,198,2022-05-03
+movie_0963,War Dream,Sci-Fi,1998,24,English,USA,6.7,30,2025-05-18
+movie_0964,Journey Empire,Crime,1992,58,English,UK,7.1,18,2022-11-22
+movie_0965,Empire Legend,Sport,1997,29,Spanish,Canada,3.5,,2020-08-06
+movie_0966,A Adventure,Crime,2024,70,English,USA,5.9,,2024-01-20
+movie_0967,Our Adventure,Adventure,2017,66,German,USA,7,107,2025-04-20
+movie_0968,First Queen,Fantasy,1996,46,English,USA,5.8,14,2024-03-16
+movie_0969,Adventure Story,Crime,1993,131,English,India,6.1,,2022-01-30
+movie_0970,House King,Biography,2005,52,Spanish,USA,,159,2021-12-21
+movie_0971,Warrior Empire,Romance,1998,48,German,Canada,6.3,107,2022-04-21
+movie_0972,Bright Mystery,Sport,1995,54,Spanish,USA,6.8,,2024-12-02
+movie_0973,Dark Kingdom,Romance,2001,66,German,USA,6.2,133,2022-10-03
+movie_0974,Queen Storm,Crime,2002,50,English,Germany,5.8,11,2024-06-28
+movie_0975,Quest War,History,2013,101,French,USA,5.5,,2022-11-14
+movie_0976,Dragon Journey,Adventure,2015,111,Hindi,Japan,7.3,,2022-09-16
+movie_0977,Little Secret,Family,2021,131,English,Germany,,,2021-06-12
+movie_0978,City Night,Romance,2017,93,Korean,UK,8.5,,2022-03-23
+movie_0979,Story Legend,War,2017,110,French,USA,7.6,,2023-10-03
+movie_0980,War Battle,Adventure,1966,17,Spanish,USA,8,166,2024-03-11
+movie_0981,First Dragon,Biography,2008,90,English,India,5.4,,2025-02-07
+movie_0982,Storm Dream,Horror,1998,99,Japanese,Japan,9.2,,2024-05-09
+movie_0983,Day Legend,Action,2002,61,Japanese,Canada,9.4,,2022-03-13
+movie_0984,Family Day,History,2006,59,English,Canada,5.8,,2024-09-24
+movie_0985,Queen Night,Sci-Fi,2000,89,French,France,7.7,,2024-01-21
+movie_0986,Love Day,Horror,2022,37,English,USA,8.5,153,2023-03-26
+movie_0987,Phoenix Storm,Horror,2023,51,English,USA,6.8,93,2023-05-26
+movie_0988,Little Journey,War,2006,72,English,Canada,1.6,,2024-01-09
+movie_0989,Empire Family,Biography,2008,168,English,Canada,6.9,,2025-07-15
+movie_0990,Big Quest,Mystery,1997,28,English,USA,3.4,,2025-04-20
+movie_0991,Last Queen,Drama,1992,76,Italian,USA,6.5,,2021-07-19
+movie_0992,The Love,Horror,2018,57,English,USA,6.2,,2022-12-15
+movie_0993,Old Phoenix,Western,2020,19,Spanish,Canada,3.7,,2025-05-08
+movie_0994,Battle Queen,Mystery,1990,119,German,USA,1.4,,2024-02-22
+movie_0995,Big Day,Horror,2024,185,Japanese,South Korea,7.9,,2024-01-13
+movie_0996,Secret Mission,Sci-Fi,1997,69,English,South Korea,6.4,24,2021-05-28
+movie_0997,House Empire,History,2024,21,French,USA,7.1,124,2024-02-29
+movie_0998,Day Legend,Fantasy,2013,69,English,USA,6,162,2022-09-25
+movie_0999,Ice War,Crime,1997,16,English,USA,7,,2024-01-06
+movie_1000,Last Night,Sport,1993,42,English,UK,,25,2021-09-02
+movie_0846,Storm Family,Action,2024,61,English,USA,4.8,,2024-03-03
+movie_0814,Adventure Legend,Adventure,2004,62,Korean,USA,6.3,13,2022-03-04
+movie_0537,New Story,Horror,1998,67,Italian,UK,5.6,,2022-08-16
+movie_0996,Secret Mission,Sci-Fi,1997,69,English,South Korea,6.4,24,2021-05-28
+movie_0586,A Adventure,Drama,2021,99,English,USA,4.4,,2021-10-26
+movie_0932,Hero Empire,Sci-Fi,1992,63,English,USA,9,46,2021-04-22
+movie_0746,Fire Journey,Music,1995,82,Hindi,USA,0.8,,2025-03-09
+movie_0147,Dark Love,Action,1996,34,Japanese,UK,3.9,,2023-02-11
+movie_0305,Legend House,Adventure,1984,113,English,Japan,,,2021-06-14
+movie_0210,Princess Kingdom,Sport,2018,83,German,Canada,2.7,,2022-02-15
+movie_0891,Ice House,Western,2018,81,French,UK,8.6,,2024-08-29
+movie_0206,Big Dragon,Romance,2003,50,English,Canada,6,97,2023-04-13
+movie_0043,City Queen,Family,2005,80,Spanish,USA,6.3,,2022-12-12
+movie_0034,Mission Kingdom,War,2018,48,English,India,7.7,138,2023-10-22
+movie_0055,Queen Quest,Sci-Fi,2002,84,Italian,India,4.7,,2023-11-21
+movie_0590,Secret City,War,2012,104,English,India,5.4,,2022-12-15
+movie_0274,Story Phoenix,Horror,1996,51,Korean,USA,6.8,,2024-11-11
+movie_0618,First Kingdom,War,2014,58,English,South Korea,,152,2024-05-30
+movie_0468,King Phoenix,Action,1992,27,Spanish,USA,7,117,2023-06-17
+movie_0557,Queen Hero,Sport,2020,147,English,USA,7.8,,2022-03-09
+movie_0980,War Battle,Adventure,1966,17,Spanish,USA,8,166,2024-03-11
+movie_0964,Journey Empire,Crime,1992,58,English,UK,7.1,18,2022-11-22
+movie_0088,Journey Love,Sport,1990,63,English,Canada,7.2,79,2023-03-02
+movie_0138,Kingdom Fire,Biography,2024,118,English,Canada,5.6,,2023-05-29
+movie_0089,Mystery Day,Romance,2014,79,Hindi,Japan,0.9,,2021-06-07
+movie_0452,Family Secret,Romance,2024,56,French,USA,,58,2023-12-23
+movie_0788,Day Warrior,Documentary,2024,44,Spanish,South Korea,6,,2021-10-10
+movie_0383,Day City,Crime,2022,42,English,USA,5.7,89,2023-09-28
+movie_0716,Love Battle,War,2022,91,English,Germany,4.4,,2020-10-15
+movie_0600,Big Adventure,History,1992,40,Korean,South Korea,,173,2022-12-08
+movie_0625,Day Night,Documentary,2003,105,English,USA,,,2021-10-13
+movie_0823,Adventure Ice,Comedy,1992,87,English,UK,,,2022-01-15
+movie_0151,Night Love,Animation,2005,98,English,South Korea,6.2,,2022-12-11
+movie_0571,City Princess,Family,2011,73,Japanese,South Korea,4.4,,2024-11-04
+movie_0035,Princess Love,Family,1994,38,English,USA,7.4,62,2021-03-01
+movie_0140,City Empire,Sport,2023,19,English,France,5.6,,2025-06-20
+movie_0517,Storm Legend,War,1998,48,English,Japan,6,85,2021-07-21
+movie_0696,House Empire,Biography,2010,54,Korean,USA,7.2,174,2023-08-19
+movie_0056,Big Princess,Adventure,1997,137,English,USA,6.2,,2021-01-18
+movie_0652,Our Night,History,2015,102,English,USA,10,,2024-10-15
