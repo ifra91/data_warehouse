@@ -1,0 +1,214 @@
+/*=====================================================================================
+				STORED PROCEDURE LOADING DATA INTO SILVER LAYER
+=======================================================================================
+This Script performa ETL(Extract, Transform, Load) operation on bronze layer,
+it loads data into silver layer from bronze layer.
+Actions Performed --
+Truncate Data before Inserting
+Data Transformation
+Data Insert Operation
+
+This stored procedure does not accepts parameters orreturn any values
+
+Usage Example : EXEC silver.load_silver;
+*/
+
+CREATE OR ALTER PROCEDURE silver.load_silver AS
+BEGIN
+DECLARE @start_time DATETIME, @end_time DATETIME, @batch_start_time DATETIME, @batch_end_time DATETIME;
+	BEGIN TRY 
+		SET @batch_start_time = GETDATE();
+		PRINT '<< LOADING SILVER LAYER';
+		PRINT '<< Loading CRM TABLES';
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table silver.crm_users';
+		TRUNCATE TABLE silver.crm_users;
+		PRINT '>> Inserting Data into Table silver.crm_users';
+		INSERT INTO silver.crm_users(
+			user_id,
+			first_name,
+			last_name,
+			age,
+			gender,
+			country,
+			subscription,
+			subscription_date,
+			Expense,
+			device
+		)	
+		SELECT 
+		user_id,
+		TRIM(first_name) AS first_name,
+		TRIM(last_name) AS last_name,
+		age,
+		CASE 
+			WHEN gender = 'M' THEN 'MALE'
+			WHEN gender = 'F' THEN 'FEMALE'
+			WHEN gender = 'Other' THEN 'OTHER'
+			WHEN gender = 'Prefer not to say' THEN 'NA'
+			ELSE NULL
+		END AS gender,
+		country,
+		subscription_plan,
+		CONVERT(DATE, subscription_start_date) AS subscription_date,
+		monthly_spend,
+		primary_device AS device
+		FROM bronze.crm_users;
+		SET @end_time = GETDATE();
+		PRINT '>> LOAD DURATION ' + CAST(DATEDIFF(SECOND, @start_time ,@end_time) AS NVARCHAR) + 'seconds';
+		PRINT '>> ----------------------------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table silver.crm_movies';
+		TRUNCATE TABLE silver.crm_movies;
+		PRINT '>> Inserting Data into Table silver.crm_movies';
+		INSERT INTO silver.crm_movies (
+			movie_id,
+			title,
+			genre,
+			country_of_origin,
+			release_year,
+			duration,
+			language,
+			episodes,
+			imdb_rating,
+			date_added
+			)
+			SELECT
+				movie_id,
+				TRIM(title),
+				TRIM(genre_primary),
+				country_of_origin,
+				release_year,
+				duration_minutes,
+				language,
+				number_of_episodes,
+				imdb_rating,
+				CONVERT(DATE, added_to_platform)
+			FROM bronze.crm_movies;
+		SET @end_time = GETDATE();
+		PRINT '>> LOAD DURATION ' + CAST(DATEDIFF(SECOND, @start_time ,@end_time) AS NVARCHAR) + 'seconds';
+		PRINT '>> ----------------------------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table silver.erp_recommendation_logs';
+		TRUNCATE TABLE silver.erp_recommendation_logs;
+		PRINT '>> Inserting Data into Table silver.erp_recommendation_logs';
+		INSERT INTO silver.erp_recommendation_logs (
+			user_id,
+			movie_id,
+			recommendation_date,
+			recommendation_type,
+			recommendation,
+			position_in_list
+			)
+			SELECT
+				user_id,
+				movie_id,
+				CONVERT(DATE, recommendation_date),
+				TRIM(recommendation_type),
+				CASE WHEN recommendation_score > 0.7 THEN 'HIGH'
+					WHEN recommendation_score BETWEEN 0.4 AND 0.6 THEN 'MEDIUM'
+					WHEN recommendation_score < 0.4 THEN 'LOW'
+					ELSE NULL
+				END AS recommendation,
+				position_in_list
+			FROM bronze.erp_recommendation_logs;
+		SET @end_time = GETDATE();
+		PRINT '>> LOAD DURATION ' + CAST(DATEDIFF(SECOND, @start_time ,@end_time) AS NVARCHAR) + 'seconds';
+		PRINT '>> ----------------------------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table silver.erp_reviews';
+		TRUNCATE TABLE silver.erp_reviews;
+		PRINT '>> Inserting Data into Table silver.erp_reviews';
+		INSERT INTO silver.erp_reviews (
+			user_id,
+			movie_id,
+			rating,
+			review_date,
+			device,
+			verified_watch,
+			sentiment
+			)
+			SELECT
+				user_id,
+				movie_id,
+				rating,
+				CONVERT(DATE, review_date) AS review_date,
+				device_type,
+				CASE WHEN is_verified_watch = '0' THEN 'FALSE'
+					WHEN is_verified_watch = '1' THEN 'TRUE'
+					ELSE NULL
+				END AS verified_watch,
+					CASE WHEN sentiment_score > 0.6 THEN 'Positive'
+					WHEN sentiment_score BETWEEN 0 AND 0.5 THEN 'Neutral'
+					WHEN sentiment_score < 0 THEN 'Negative'
+					ELSE NULL
+				END AS sentiment
+			FROM bronze.erp_reviews;
+		SET @end_time = GETDATE();
+		PRINT '>> LOAD DURATION ' + CAST(DATEDIFF(SECOND, @start_time ,@end_time) AS NVARCHAR) + 'seconds';
+		PRINT '>> ----------------------------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table silver.erp_search_logs';
+		TRUNCATE TABLE silver.erp_search_logs;
+		PRINT '>> Inserting Data into Table silver.erp_search_logs';
+		INSERT INTO silver.erp_search_logs (
+			user_id,
+			search_query,
+			results_returned,
+			used_filters,
+			search_date
+			)
+			SELECT
+				user_id,
+				TRIM(search_query),
+				results_returned,
+				CASE WHEN used_filters = '0' THEN 'NO'
+					WHEN used_filters = '1' THEN 'YES'
+					ELSE NULL
+				END AS used_filter,
+				CONVERT(DATE, search_date) AS search_date
+			FROM bronze.erp_search_logs;
+		SET @end_time = GETDATE();
+		PRINT '>> LOAD DURATION ' + CAST(DATEDIFF(SECOND, @start_time ,@end_time) AS NVARCHAR) + 'seconds';
+		PRINT '>> ----------------------------------';
+
+		SET @start_time = GETDATE();
+		PRINT '>> Truncating Table silver.erp_watch_history';
+		TRUNCATE TABLE silver.erp_watch_history;
+		PRINT '>> Inserting Data into Table silver.erp_watch_history';
+		INSERT INTO silver.erp_watch_history (
+				user_id,
+				movie_id,
+				watch_date,
+				watch_hours,
+				progress_percent,
+				action,
+				quality
+			)
+			SELECT
+				user_id,
+				movie_id,
+				CONVERT(DATE,watch_date) AS watch_date,
+				ROUND(watch_duration_minutes/60,3) AS watch_hours,
+				progress_percentage,
+				action,
+				quality
+			FROM bronze.erp_watch_history;
+		SET @end_time = GETDATE();
+		PRINT '>> LOAD DURATION ' + CAST(DATEDIFF(SECOND, @start_time ,@end_time) AS NVARCHAR) + 'seconds';
+		PRINT '>> ----------------------------------';
+
+		SET @end_batch_time = GETDATE();
+		PRINT '<< Printing Silver layer is complete';
+	END TRY
+	BEGIN CATCH
+		PRINT 'Error occurred during bronze layer';
+		PRINT 'Error Message' + ERROR_MESSAGE();
+		PRINT 'Error Message' + CAST(ERROR_MESSAGE() AS NVARCHAR);
+		PRINT 'Error Message' + CAST(ERROR_STATE() AS NVARCHAR);
+	END CATCH
+END
